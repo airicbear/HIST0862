@@ -1,0 +1,264 @@
+#+TITLE: Midterm Review
+#+OPTIONS: num:nil toc:nil title:nil html-postamble:nil
+#+EXCLUDE_TAGS: noexport
+
+* Terms :noexport:
+
+On the midterm, you will see 8 of these terms and will be asked to provide definitions and explain the significance of five of the terms for the history of development and globalization.
+If the author of a source, explain the context for the source and the issues it reveals.
+
+- Ibn Battuta
+- Extractive Institutions
+- Inclusive Institutions
+- Bartolome de las Casas
+- British East India Company
+- Dutch East India Company
+- Congo Company
+- Semyon Kanatchikov
+- Enclosure
+- Fictitious Commodity
+- /Encomienda/ system
+- Tamurlane
+- Silk Roads
+- Industrialization
+- Cottage labor / putting out
+- Biological old regime
+- Zheng He
+- Triangle Trade
+- Spanish conquest
+- Mercantilism
+
+* Ibn Battuta
+
+** Definition
+
+In the 14th century, a Muslim traveler from North Africa, Abu 'Abdallah Ibn Battuta, produced one of the greatest travel accounts ever written.
+In 1325, at 21 years old, he left Morocco for the annual pilgrimage to Mecca.
+With a great urge to explore, his explorations covered vast areas across East Africa and Asia, specifically the Middle East, South Asia, and Southeast Asia.
+
+** Significance
+
+Produced a magnificent travel account, albeit with some errors given that he wrote it ~30 years after his initial departure from Tangier.
+His accounts reveal the lives of recently converted Turkic nomads, e.g, that they used millet grain to make buza alcohol.
+They also reveal the conditions of the territories he explored.
+
+* Extractive Institutions
+
+** Definition
+
+Extractive institutions are practices that tend to give power to a few people over many or most people within a certain state or region.
+
+** Significance
+
+States with extractive institutions cannot facilitate nor sustain growth, and hence cannot form developed economies.
+They tend to end up in vicious cycles, persisting without many opportunities for an inclusive institution to establish itself.
+Thus, states with extractive institutions often stay undeveloped.
+
+* Inclusive Institutions
+
+** Definition
+
+Inclusive institutions are practices that tend to equally distribute power among all of the people within a certain state or region.
+
+** Significance
+
+States with inclusive institutions are able to facilitate and sustain growth, thus being able to form developed economies.
+
+* Bartolome de las Casas
+
+** Definition
+
+Witnessed the atrocities committed by Spanish conquistadors against the natives of the New World
+
+** Significance
+
+Gave his personal account of these dreadful deeds to the Spanish crown and court in an effort to convince them not to grant the conquistadors official authority to once again ravage the lands and commit worse deeds.
+
+* British East India Company
+
+** Definition
+
+Privately organized state chartered company organized trading voyages for
+
+** Significance
+
+Britain takes control of Indian Ocean.
+
+* Dutch East India Company
+
+** Definition
+
+Privately organized state chartered company organized trading voyages for southeast Asia, which colonized
+
+** Significance
+
+Netherlands is one of the wealthiest countries and stays that way; modern corporations rooted in companies like this; trade and labor organizations in plantation implications
+
+* Congo Company
+
+** Definition
+
+A company that exploited natural rubber in the Congo Free State, the private property of King Leopold II of Belgium.
+
+** Significance
+
+The company saw great profits at the cost of extremely cruel slavery.
+
+* Semyon Kanatchikov
+
+** Definition
+
+Russian peasant who went from traditional village life to being an urban factory worker.
+
+** Significance
+
+Example of the transition to industrialization from an agrarian lifestyle.
+
+* Enclosure
+
+** Definition
+
+Deprives commoners of rights of access and privilege to enclosed land.
+
+** Significance
+
+Improve the efficiency of agriculture; value of land substantially increased; protests to the policy
+
+* Fictitious Commodity
+
+** Definition
+
+Labor, land, money are called fictitious commodities because they were not originally produced to be sold on a market. (Karl Polyani 23, 289)
+
+** Significance
+
+Caused destruction.
+Human beings would perish from social dislocation through vice, perversion, crime, and starvation.
+Nature would be reduced to its elements, neighborhoods and landscapes defiled, rivers poluted, military safety jeopardized, the power to produce food and raw materials destroyed.
+(Polanyi, Ch 6, p. 167 of PDF)
+
+* Encomienda system
+
+** Definition
+
+System that rewarded Spanish conquerors with the labor of the people the conquered.
+
+** Significance
+
+Allowed conquistadors and the Spanish crown to accumulate wealth and benefits, such as the discovery of gold and silver in the New World.
+
+* Tamurlane
+
+** Definition
+
+Ravaged northern India in the 1300s.
+One of the greatest military leaders in history, conquered modern-day Afghanistan, Iran, and Central Asia.
+
+** Significance
+
+Caused the downfall of the Delhi sultanate, a Turkish Muslim kingdom that had lasted for 200 years.
+This downfall allowed Islam to secure territory in northwest India.
+
+* Silk Roads
+
+** Definition
+
+A network of trade routes linking west and east Eurasia.
+
+** Significance
+
+The Silk Road played a key role in the development of civilizations across Eurasia.
+It opened long-distance political and economic relations between those civilizations.
+The Silk Road was not only used to exchange goods, but all sorts of things, including culture, religion, scientific discoveries, new technologies (e.g., paper, gunpowder), etc.
+
+* Industrialization
+
+** Definition
+
+Industrialization is the development of industries in a country or region on a wide scale; such that it transforms the agrarian society to an industrial society.
+
+** Significance
+
+Industrialization allows an agrarian society to break free of the constraints of the biological old regime.
+In other words, they are able to facilitate and sustain growth without being forced to make compromises due to ecological limits.
+
+* Cottage labor / putting out
+
+** Definition
+
+Small scale manufacturing right out of a home. All stages were done in the weaver’s cottage, from dressing the raw material to being turned out as cloth.
+
+** Significance
+
+This practice weakened the society's core producers and limited both supply and demand, as well as land.
+
+* Biological old regime
+
+** Definition
+
+The "biological old regime" is the material and natural conditions under which most people lived in 1400, an overwhelmingly agricultural world.
+(Marks, p. 19)
+
+** Significance
+
+The biological old regime imposes ecological constraints on the development of nations as well as the world population (Marks, p. 21); that is until the Industrial Revolution happened.
+Specifically, the biological old regime made it difficult for nations to be efficient and productive enough to sustain themselves in the event of massive population growth as it required workers to be many and to be skilled.
+It was only until the Industrial Revolution that these constraints could be broken from and nations started becoming capable of sustaining their growing populations.
+(Marks, p. 12)
+
+* Zheng He
+
+** Definition
+
+Admiral Zheng He, in the autumn of 1405, led the largest fleet of ships the world had ever seen at the time, in a voyage through the Indian Ocean towards a major trading city on India's West coast, Calicut.
+This armada had three primary objectives: (1) track down the emperor's escaped nephew, (2) impress foreign countries in the region, and (3) encourage overseas trade.
+(Marks, p. 42)
+
+** Significance
+
+Zheng He was Muslim and fluent in Arabic.
+The language of commerce and shipping in the Indian Ocean from eastern Africa to the Spice Islands was Arabic.
+He was able to establish diplomatic relations with the Islamic world, i.e., opened up many more trade routes for China thus greatly improved its economy.
+(Marks, p. 44)
+
+* Triangle Trade
+
+** Definition
+
+Triangle trade is trade between three ports/regions.
+
+** Significance
+
+Triangle trade was a significant factor in the economic prosperity and development of the European and North American colonizations.
+Specifically, it made it possible to satisfy certain demands at a profit through abundant supply and cheap labor.
+Indeed, it had significant implications on the use of forced labor.
+(Marks, p. 86)
+
+* Spanish conquest
+
+** Definition
+
+Spanish conquest of the Americas during the Italian Renaissance of the sixteenth century was when hundreds of Spanish conquistadors vanquished huge and very wealthy American civilizations, in particular the Aztecs and the Incas.
+(Marks, p. 3)
+
+** Significance
+
+The Spanish conquest led to the "Great Dying" in Mexico, where nearly 90 percent of the central Mexican population of 25 million succumbed to European diseases such as smallpox and influenza, Europeans first attributed their superiority to their Christian religion.
+Later, during the Enlightenment of the seventeenth and eighteenth centuries, they attributed their superiority to a Greek heritage of secular, rationalistic, and scientific thought.
+(Marks, p. 3)
+
+* Mercantilism
+
+** Definition
+
+Mercantilism is the belief of accumulating and maintaining the greatest amount of wealth possible
+
+** Significance
+
+Wars were very costly, arms had to be purchased, in many instances from weapons makers outside the monarch's own country, and campaigning in a foreign country required vast amounts of silver or gold.
+To keep precious metals in one's own state therefore required economic policies that prevented them from flowing out in payment for, well, anything imported, especially for goods consumed and not used in war.
+
+Thus European states imposed duties on virtually all imported goods, required that all goods be transported in their ships, and forced European New World colonists to trade only with the mother country, even if smuggling made such a policy somewhat porous.
+Mercantilist ideas also led to policies that states should use their own raw materials to manufacture within their own borders anything that was imported, an action we saw the English take in the early 1700s to keep Indian cotton textiles out.
+Although mercantilist policies did indeed lead to the establishment of industries in European states, industrialization itself was not the object: keeping gold and silver from flowing out of the state and enriching otheres was.
+(Marks, p. 93)

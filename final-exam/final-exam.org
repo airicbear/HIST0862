@@ -1,0 +1,158 @@
+#+TITLE: Final Exam
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \renewcommand{\Large}{\normalsize}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: FinalExam_NguyenEric
+
+* How Development Affects Trade Routes
+
+In general, trade routes originate from the supply and demand of both goods (e.g., commodities, manufactured goods, and labor), culture (e.g., religion, language, art, stories), and ideas (e.g., science, engineering), and trade routes enable exchanges of such goods, culture, and ideas between regions across the world.
+These three categories of trade correspond to economy, culture, and technology, respectively.
+Indeed, the history of trade routes is affected by the economic, cultural, and technological development of countries.
+
+Economic development is arguably the primary motivating factor in the need for trade routes and their creation.
+As countries started to grow in population larger than they could handle, they were no longer able to sustain themselves on their own through domestic production and thus were forced to seek an alternative means to sustain their growth.
+Trade routes proved to be the best solution to address these issues as they would provide the necessary resources to sustain growing populations and meet the increased demands of larger populations.
+On the contrary, larger populations would increase domestic production and lead to a surplus of locally produced goods and commodities of which trade routes would allow to be sold and distributed, generating wealth and thus further develop the economy.
+In a related example, Ibn Battuta in his time spent in Turkestan found that "horses in this country are exceedingly numerous... These horses are exported to India [in droves]... there remains a handsome profit for the traders... The people of India... what they prize in these horses is strength and length of pace" (p. 157).
+From this example, we can see how the supply of horses from Turkey satisfies the demand for horses in India, and how this supply and demand relationship between Turkey and India creates trade routes between them.
+In another example, we see how China's growing demand for silver could not be satisfied by domestic mining, forcing them to "engage in foreign trade" (Marks, p. 51).
+
+Cultural development is also an important factor in the creation of trade routes.
+Religion naturally compels individuals to profess and spread their faith to others and as a result encourages the exchange of religious beliefs and faiths between people.
+This of course extends to the exchange of religious influence between countries too.
+As people travel across regions to spread or pursue religious beliefs, they create cultural connections between the regions which effectively act as trade routes involving the exchange of culture.
+For example, Ibn Battuta first started his travels due to his Islamic faith "Ibn Battuta left Morocoo to participate in the annual pilgrimage to Mecca" (p. 153) and in his travels he would be very religiously influential to the regions he traveled through, establishing strong Islamic faith in the regions.
+Another aspect of culture, language, is essential for trade routes to function as it would allow traders to understand and communicate with each other and the exchange of language between parts of the world allowed trade routes to form.
+As explained by Marks, from 650 to 100, "Arab traders spread their language and the Islamic religion throughout the region, from East Africa to Indonesia, providing a common language and culture for those who traveled there" (p. 48).
+Having common language and culture allows trade to more easily and naturally occur across regions as people are familiar with and can understand each another well.
+
+Technological development enables expansion of trade routes and makes more trade routes accessible.
+At first, trade routes were primarily formed on land, through primitive means, particularly by the use of riding animals such as horses, oxen, and camels which Ibn Battuta encountered during his travels in the 14th century (p. 155).
+Overseas trade routes would form as maritime exploration became more advanced starting with the voyages of Christopher Columbus and Vasco Da Gama in the 1490s.
+Indeed, as technology progresses, trade routes would form all over the world, through the development of railroads, tunnels, highways, freight transportation, and even the internet.
+Technological advancements would also make trade routes more reliable and/or efficient such as how the advancement from camels to cargo trucks allow for larger payloads with faster shipping.
+In related example, we can see how advancements in military technology and use of advanced weaponry allowed Europeans in the fifteenth century to secure access to trade routes as they "began building warships to protect their merchant ships" (Marks, p. 61).
+Technology also allows countries to further their production, affecting supply and demand levels, by which trade routes are also affected.
+For example, due to advancements in textile manufacturing practices in India, they were able to increase production and further develop the economy (Marks, p. 51).
+
+Economic, cultural, and technological development all are major factors in the history of trade routes.
+While economic and cultural development influence the need for trade routes, technological development also enables new trade routes to form.
+
+* How Globalization Benefits Developed Countries
+
+Globalization is not beneficial for everyone, particularly poorer and less developed countries as they are powerless in the process of globalization and subject to any consequences of the process.
+On the other hand, developed countries are likely to be the driving force behind globalization with the most power and control over the process and as a result, overpower the less developed countries, exploiting them at their disposal.
+Globalization is beneficial for developed countries because it expands their available resources, greatly stimulates their economy, and gives them greater control and power to protect themselves.
+
+First of all, globalization expands the amount of available resources of developed countries as they are able to more easily access more land, labor, and capital.
+Increased accessibility of means of production is beneficial for the countries as they are able to increase production of commodities and manufactured goods.
+The increase in production is caused by a larger workforce, access to advanced science and engineering, and more raw materials to accommodate the larger workforce.
+The workforce grows as globalization encourages more people to immigrate to developed countries as well as encourages the use of forced labor due to increased demands for laborers.
+Access to advanced science and engineering increases as scientific discussion and communities becomes more connected and collaborative under globalization.
+For example, growth of workforce and innovations in the 19th and 20th centuries improved trading for developed countries, "Many imported laborers and engineers shortened sea voyages with interoceanic canals like the Suez (1869) and Panama (1914)" (Fisher, p. 86) and thus improved rates of production as raw materials could be imported at a faster rate.
+While there needs to be more housing and infrastructure constructed to accommodate the larger populations, globalization also makes the raw materials needed for such construction to occur to be more widely available throughout the world.
+
+Globalization also stimulates the economy of developed nations by increasing demand for certain commodities and manufactured goods.
+Because in globalization, as the world becomes more interconnected and people are exposed to new goods, culture, and ideas, people start acquiring tastes for certain things.
+For example, China had acquired a taste for opium, "the demand for opium was driven by the needs of forty million addicted consumers, rather than state needs for its economy. Nonetheless, Chinese demand for opium in the 1800s did stimulate worldwide economic activity" (Marks, p. 139), and indeed the developed nations exporting opium to China, namely Great Britain and the U.S., found great economic success from satisfying the new demands brought upon by globalization.
+Furthermore, globalization also can create dependencies between less developed countries and developed countries, particularly between colonies and their colonizers.
+For example, in the 1890s Count Sergei White noticed that Russia's relationship with western Europe was similar to colonial relations, "The economic relations of Russia with western Europe are fully comparable to the relations of colonial countries with their metropolises. The latter consider their colonies as advantageous markets in which they can freely sell the products of their labor and of their industry and from which they can draw with a powerful hand the raw materials necessary for them" (Marks, p. 147).
+This relationship is primarily beneficial for the colonizer as they have a reliable customer to which they can always sell their goods, as well as extract their labor which is used to produce such goods.
+On the other hand, poor nations cannot benefit due to the lack of means of production to satisfy foreign demands as well as military weakness to resist.
+
+Finally, globalization gives countries great control and power to defend themselves from hostile nations.
+Particularly, this is useful in the context of wars, where globalization allows developed countries to easily recruit people from foreign people if needed, but also it is strategically advantageous for countries to have a global military presence that can secure that overseas operations go smoothly.
+For example, the British East India Company (EIC) had enlisted its very own Indian army known as the Sepoys to protect its assets and to "extend its control over other parts of India... By the mid-1800s, the British had colonized all of India" (Marks, p. 141).
+Furthermore, globalization allows developed countries to be more familiar with geographical layouts of potential war zones and familiar with military tactics that certain countries use to be better prepared should war arise.
+In a related example, Japan was victorious in wars between both China and Russia in the 1890s and 1900s due to their superior military might and knowledge (Marks, p. 148).
+Poorer countries cannot see these benefits as they do not have the funds to recruit foreigners nor do can they fund any significant external military presence elsewhere.
+
+Globalization is beneficial for developed countries as it increases their means of production, it stimulates their economies through heightened demands, and provides control and other military advantages, especially against less developed countries.
+An increased means of productions comes from an increase in laborers and materials, stimulation of the economy comes from new demands, and military advantages come from access to foreign soldiers.
+
+* Why Developed Nations Benefit From Lack of Development Elsewhere
+
+The lack of development in nations creates certain conditions that allow developed nations to take advantage of.
+Developed nations benefit from the lack of development elsewhere because the lack of development elsewhere commoditizes labor, opens opportunities for capital exploitation, and makes relationships between nations more predictable.
+
+The lack of development elsewhere creates the conditions whereby the sale and/or purchase of slaves is needed to sustain the economies of undeveloped nations.
+This commoditization of labor is beneficial to developed nations as they are able to easily acquire and sell labor at their disposal.
+The acquisition of labor allows developed nations to meet labor shortages, while the sale of labor allows them to dispose of excess labor, but also turns out to be a very profitable economic activity.
+Indeed the sale of slave labor was highly profitable for developed nations in the mid 18th century, "One of the most numerous and destructive forced migrations directly caused by European colonialism was the brutal exportation of approximately twelve million Africans as slaves across the Atlantic... Most slave-ship captains treated these enslaved African people like commodities---inhumanely transported and sold for the highest possible profit" (Fisher, p. 76).
+Regarding the acquisition of labor, we can see how the Portuguese were able to take advantage of slave labor to resolve their labor shortage issues in their colonial possession of Brazil, and in fact were one of the first nations to do so, "With so few Portuguese willing to migrate to Brazil, the Portuguese had no choice but to rely upon the native Tupi, who, to put it mildly, had little desire to work on farms and instead fled to the forest... The solution was the use of African slaves" (Marks, p.86).
+
+The lack of development elsewhere also creates conditions for developed nations to take advantage of vulnerable commodities and other assets.
+When there is little or no development around natural resources, they become open to developed nations to secure them and exploit upon.
+However, even when there is development, if the occupying nation is not strong enough to deter colonists, they would likely succumb to colonization and become an asset to the colonists.
+Spanish Imperialism is a great example of how a developed nation can greatly benefit from the lack of development elsewhere due to ease of control.
+For example, the Spanish was able to overtake Peru with ease and control all of its assets, "Spanish conquistadors found a centralized, extractive state in Peru they could take over and a large population they could put to work in mines and plantations" (Acemoglu and Robinson, p. 433).
+Indeed, Peru had easily succumbed to the strength of the Spanish conquistadors and had no choice but to concede their land, labor, and capital to the Spaniards.
+In similar example, the Spanish was able to easily overtake the Filipino city of Manila and take control of its silver mines, generating immense profits, "Where to the Spaniards Potosí was a source of fabled wealth ('to be worth a Potosí' became a stock phrase for being rich), to the Indian laborers it was the 'mouth of hell'" (Marks, p. 81).
+In this example we see a clear disparity between the developed Spanish nation and the less developed nations, namely the Philippines and India, by which the Spanish benefit from this disparity.
+
+Finally, the lack of development elsewhere makes relationships between colonies and their colonizers more predictable.
+The less developed a colony is, the less likely they are to resist and the more predictable their behavior is to their colonizers.
+Having a stable relationship with their colonies is important, because any unstability is likely to only lead to revolt and thus sever any economic and military benefits provided by their colonies.
+Relating to the previous example, we see how there is a clear relationship between the Spaniards and the Indian laborers, "Although not slaves, Indians were compelled by Spaniards to work their fields or their mines in return for providing food, shelter, and Christianity in a system known as the /encomienda/" (p. 81).
+In this case, the Spaniards benefit as they are provided laborers to work on the mines in the Philippines at the cost of hellish work conditions for the Indian laborers.
+In a general notion between the developed nations and the less developed nations, we can observe "the exploitation of an increasing number of small or weak nations by a handful of the richest and most powerful nations" (p. 42).
+
+The lack of development elsewhere is beneficial to developed nations due to the commoditization of labor, vulnerability of resources, and the predictable relationships between colonizers and their colonies.
+The commoditization of labor allows easy management of labor and prevention of labor shortages, the vulnerability of resources allows developed nations to easily take control of such resources, and predictable colonial-relationships allow for a reliable source of economic and military support from colonies.
+
+* Works cited
+
+\noindent Acemoglu, D and J Robinson (2012), "Understanding Prosperity and Poverty," Chapter 15 in /Why Nations Fail: the Origins of Power, Prosperity and Poverty/. London: Profile Books, 428-462.​ \\
+\\
+\noindent Ibn Battuta, "Travels in Western Central Asia in the Fourteenth Century" in Levi and Sela, eds., /Islamic Central Asia: An Anthology of Historical Sources/ (Bloomington: Indiana, 2010), 153-158. \\
+\\
+\noindent Marks, Robert B., "Starting with China," Chapter 4 in /The Origins of the Modern World : A Global and Environmental Narrative from the Fifteenth to the Twenty-First Century/. Blue Ridge Summit: Rowman & Littlefield Publishers, 2019. Accessed December 8, 2021. ProQuest Ebook Central, 41-65. \\
+\\
+\noindent Marks, Robert B., "The Gap," Chapter 5 in /The Origins of the Modern World : A Global and Environmental Narrative from the Fifteenth to the Twenty-First Century/. Blue Ridge Summit: Rowman & Littlefield Publishers, 2019. Accessed December 8, 2021. ProQuest Ebook Central, 135-148. \\
+\\
+\noindent Michael H. Fisher, "National and International Migrations, 1750 to 1914," Chapter 4 in /Migration: A World History/. Oxford: Oxford University Press, 2013, 75-102. \\
+\\
+\noindent V.I. Lenin, "Imperialism, the Highest Stage of Capitalism," in Alice L. Conklin and Ian C Christopher Fletcher, eds., /European Imperialism, 1830-1930: Climax and Contradiction/ (New York: Houghton Mifflin Co., 1999), 36-43.
+
+* Theses :noexport:
+
+** Prompt 3
+
+In general, trade routes originate from supply and demands between regions across the world.
+For example, in his travels, Ibn Battuta notices high demand for horses across Africa and Eurasia.
+The history of these routes relates to the history of development as it allows the distribution of wealth (the means of development).
+
+** Prompt 4
+
+Globalization is beneficial for highly developed countries as it allows the most developed countries to further expand and develop.
+For example Michael Fisher's global imperialism and globalization of the Industrial Revolution shows how developed nations benefit.
+
+** Prompt 7
+
+Wealther and more developed nations do indeed benefit from the lack of development elsewhere.
+For example England was able to industrialize before other developed nations specifically due to the fact that they took advantage of forced labor from less developed countries (Marks).
+
+* Prompt :noexport:
+
+Answer THREE of the questions below.
+These are broad questions that we came up with together at the start of the term.
+To answer them, first think about concrete cases/examples you could use; if you chose question four, for example, you might try to answer the question on the basis of NAFTA, or the apparel industry, or the food industry.
+
+Make sure to use concrete factual examples to support your argument and refer to primary and secondary texts when appropriate.
+The essays should be clearly organized, with an argument, body paragraphs, and a conclusion, and should be generally free of grammatical and factual errors.
+
+* Questions :noexport:
+
+1. How do we explain differences in development?
+2. What is the relationship between interdependence and integration and development?
+3. What are the origins of trade routes and how does their history relate to the history of development?
+4. Is globalization beneficial and if so, for whom?
+5. Does cultural homogenization follow from globalization?
+6. What is the relationship between geography, development, and conflict?
+7. Do wealthier/more developed nations benefit from the lack of development elsewhere?

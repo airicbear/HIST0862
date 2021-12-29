@@ -1,0 +1,832 @@
+#+TITLE: Icnotes
+
+* 2021-08-31
+
+** Questions for this week
+
+- How and why did different empires establish trading networks?
+
+- What role did peoples living outside of the imperial framework play in regional and transregional exchange?
+
+** Nomads and Empires
+
+- Empires across Eurasia had an ambiguous relationship with nomadic and semi-nomadic peole living beyond their borders.
+
+- Nomadic peoples were often important for trade, and their presence could be mutually beneficial for agricultural societies and for nomads themselves.
+
+- But nomadic groups were sometimes forced (or took the opportunity) to engage in looting and raids, leaving Empires to choose between warfare and accommodation.
+
+** Islam
+
+- After the Prophet Mohammed's death, his successors extend Islamic rule as far East as China and as far west as the Maghreb and present-day Spain
+
+- Muslims conquered Persian and Byzantine empires
+
+- Islamic rule fractured by split between Shia and Sunni
+
+- Rule of Abassid dynasty becomes a "Golden Age" for trade, knowledge, arts
+
+** Mongol Conquests and their Legacy
+
+- Genghis' death divided his empire among his descendants
+
+- Future generations tended to adopt culture and religions of the places they governed
+
+- Successful rules used patronage and trade to consolidate and further expand their rule
+
+** Ming Dynasty China (1368-1644)
+
+- Overthrew Yuan dynasty and consolidated control over most Song territories.
+
+- How to consolidate rule?
+
+  1. Promote agrarian polity and stable social/political order?
+
+  2. Engage in international trade, commerce, and exploration?
+
+- Ming dynasty toggles between both
+
+- Ultimately, decision to focus more on "northern" threat and internal consolidation
+
+** Central Eurasia -- Power, Authority, Trade
+
+- Lands of Central Eurasia before Islamic conquests include Graeco-Bactrian, Zoroastrian, Tengric, Nestorian Christian, and other ecultures.
+
+- Conquests by Arab armies begin process of Islamization, but it is conversion of Genghis Khan's descendants in the region that completes it.
+
+- Cities like Samarqand continue to play an important role in trade between China, India, and Europe, but also become center of Islamicate scholarship and culture.
+
+** Timur (Tamerlane) 1336(?)-1405
+
+- Claims descent from Genghis Khan (probably falsely)
+
+- Proclaims his campaigns as legitimated by Islam AND as a restoration of Mongol rule
+
+** On primary sources
+
+- Who is speaking?
+
+- What is their relationship to the subject?
+
+- Atmosphere, context, (e.g., are they under pressure?)
+
+- When?
+
+* 2021-09-02
+
+** Spain conquest on the Americas
+
+- Primary objective: get gold
+
+  + How? torture and kill the natives; get slaves to produce gold
+
+  + Why? trade w/ China
+
+* 2021-09-07
+* 2021-09-14
+
+** Summary
+
+- Markets
+- Institutions
+  + Inclusive institutions
+  + Extractive institutions
+- Private property
+- Enclosure
+- Industrial Revolution
+
+** Micklethwait and Wooldridge - The Company
+
+*** Embedded
+*** East Indian Company
+
+- Share
+- Capital
+- Economic power
+
+* 2021-09-23
+
+** Recent news: electric vehicles
+
+- Controversy over electric vehicle purchase
+
+- U.S. encouraging purchases of electric vehicles by making them more available and affordable
+
+- Possible 75,000 jobs lost from purchase of electric vehicles
+
+- However, you can offset job loss
+
+** "Empire of Cotton", Sven Beckert
+
+- War capitalism
+
+- Commodity
+
+- American slavery
+
+- More you're buying, the cheaper you want it to be
+
+#+begin_quote
+Ottoman growers, who for the past two hundred years had been a major source of raw cotton for Europe, could not satisfy this exploding demand.
+Indeed, throughout the 1780s, exports from Thessaloniki and Izmir remained nearly level.
+A severe labor shortage and the tenacity of feudal relations in the Ottoman countryside limited the supply from Anatolia and Macedonia.
+The labor shortage was such that beginning in the 1770s landowners in western Anatolia brought in thousands of Greek laborers to grow cotton---an expansion that still did not provide the scale necessary for the supply of European industry.
+The largely precapitalist dependencies that structured the world of rural cultivators, the efforts of peasants to secure their subsistence, the lack of transportation infrastructure, and the continued political independence of the Ottoman state contributed to Europeans' inability to press for the monocultural production of cotton.
+A rapid reallocation of land and labor for cotton planting proved impossible.
+Local elites, moreover, remained a powerful counterweight against the increasingly influential presence of Western merchants in port cities such as Izmir and Thessaloniki, hampering the ability of Western capitalists to reform the social structure in the countryside to produce more cotton for world markets.
+
+(pp. 86--87)
+#+end_quote
+
+- System: (labor <=> manufacturing)
+
+#+begin_quote
+We usually think of capitalism, at least the globalized, mass-production type that we recognize today, as emerging around 1780 with the Industrial Revolution.
+But war capitalism, which began to develop in the sixteenth century, came long before machines and factories.
+War capitalism flourished not in the factory but in the field; it was not mechanized but land- and labor-intensive, resting on the violent expropriation of land and labor in Africa and the Americas.
+From these expropriations came great wealth and new knowledge, and these in turn strengthened European institutions and states---all crucial preconditions for Europe's extraordinary economic development by the nineteenth century and beyond.
+
+Many historians have called this age of "merchant" or "mercantile" capitalism, but "war capitalism" better expresses its rawness and violence as well as its intimate connection to European imperial expansion.
+
+(pp. xv--xvi)
+#+end_quote
+
+- This quote challenges the history of capitalism
+
+** Response paper
+
+*** Prompts
+
+1. What explains the transformation of manufacturing processes in the late 18th and early 19th centuries?
+
+2. Why did England become the first country where manufacturing processes became industrialized?
+   Why didn't this happen in China or India?
+
+3. What is the relative importance of technology, culture, and (imperial) power in the history of industrialization?
+
+*** Prompt 1
+
+- To have new technology, you need a culture that accepts innovation, you need power to protect technology
+
+*** Prompt 2
+
+- Manufacturing processes industrialized from ability to access colonies and easy access to coal
+
+- Management of the entirety of China is difficult under a single government
+
+- Forced labor (slaves) from England, whereas China laborers had freedom
+
+*** Prompt 3
+
+- Why industrial/development happens?
+
+  + According to Acemoglu and Robinson: because of institutions
+
+- Cotton gin, steam engine
+
+*** Example
+
+- If we understand Beckert's version of capitalism, what does that mean for modern capitalism?
+
+- If we brought Acemoglu and Robinson in the room, after having read Beckert's writing, what reaction would they have?
+
+* 2021-09-28
+
+** Origins of Russian Serfdom
+
+- Russian rulers (tsars) reward supporters with land and right to labor or payment in kind from peasants on that land
+
+- Freedom of peasants to move is gradually restricted
+
+- By 1649 peasants lose all freedom to move; the transition to serfdom is complete
+
+- Distinction between slave (kholop) and serf (krepostnoi krestianin) disappears
+
+** Peasant Lives
+
+- Most peasants were illiterate, so recovering their lives is difficult, but possible through use of church records, legal documents, and some autobiographies.
+  These records are mostly available for the 19th century.
+
+- In principle, peasants were self-governing.
+  The peasant commune(/mir/) decided most issues internally.
+
+- Most landowners did not take an interest in the daily lives of the peasants on their land, but could intervene to settle disputes.
+
+- In principle, landlords could not easily buy or sell serfs separate from land.
+  In practice, they sometimes did, or they sent them to work elsewhere (for example, in industry)
+
+- On the land, life was harsh but not regimented.
+  Seasons determined the pace.
+
+- Order was patriarchal: decisions were made by men, and men were heads of household.
+  Women married into household.
+
+** Modes of Resistance
+
+- Most forms of resistance were passive.
+  Because landlords did not (and usually could not) control daily lives of peasantry, peasants were often able to stifle initiatives they did not like
+
+- Flight remained an option, particularly for those located closer to the borderlands.
+  Cossack hosts included many (former) runaway peasants.
+
+- Violent resistance happened as well, usually culminating in the burning of the landlord's manor.
+
+** Pressure for emancipation
+
+- Already in the 18th centruy there is pressure, primarily from the top of society.
+
+- Pugachev rebellion and French revolution both promote support for emancipation and make elite wary
+
+- Alexander I is first monarch to seriously address the issue
+
+- The key problem is: *key tensions:* how do you eliminate Serfdom without alienating the notibility?
+  How do you compensate the nobility for their loss of serfs?
+  How do you ensure that the peasantry remain a productive class?
+  Do you give them land?
+
+** Emancipation in practice
+
+- Right of land ownership for emancipated peasants starting in 1801
+
+- New category of "free agriculturalist" established in 1803
+
+- Experiments in Baltic provinces following Prussian model:
+  Peasants are free but without land, continue working for landlords as free labor
+
+- Rest of Russia does not follow until 1861 (state peasants in 1866)
+
+** Peasants into Farmers and Workers?
+
+- As late as the turn of the 20th century, most peasants till live in communes.
+
+- Many travel to cities for (seasonal) industrial labor.
+  They tend to live on the margins of urban society.
+
+- 1906 law makes it possible to convert strips of land into private property.
+  A Peasant Land Bank is finally created, an enormous administration is created to help this along.
+
+** Empire and the Legacies of Serfdom
+
+- Emancipation creates new sense of "land hunger" -- administration decides to promote settlement campaigns
+
+- Hundreds of thousands move to Siberia, and, after 1882 -- to steppe lands in contemporary Kazakhstan
+
+- Accelerates after opening of Trans-Siberian railroad in 1893
+
+* 2021-09-30
+
+** Questions we are interested in
+
+- Why does migration happen?
+  Why do people move?
+
+- What effect does migration have on the place people leave, and on the places where they go?
+
+- Is migration worth it (for the people moving)?
+
+- What is the relationship between migration and urbanization?
+
+- What is the relationship between migration and development?
+
+- How do notions of justice and injustice play out in relation to migration?
+
+* 2021-10-19
+
+** The Great War as a Global Conflict
+** Central Asian Revolt of 1916
+
+- Tensions going back to 1870 due to resettlement
+
+- Mobilization of Central Asians for labor sparks uprising
+
+- Russian army intervenes brutally, leads to death of between 150,000-260,000
+
+- Later memorialized as a "national liberation" uprising but this is not quite right
+
+** The Caucasus: 1914--1918
+
+- Somewhat different story in the Caucasus.
+  No mass uprising against Russian troops, but the war does catalyze nationalist movements among Georgians, Armenians, Azeris and others.
+
+- Ottomans and other powers support these aspirations during World War I and after Russian withdrawal from the war.
+
+** Civilians and Refugees on the Eastern front
+** The "Wilsonian Movement"?
+
+- Collapse of Austro Hungarian, German, Ottoman empires
+
+- Failure of socialist revolutions
+
+- Strength of nationalism before and during First World War
+
+- With Versailles settlement, nation-state seems triumphant
+
+- European empires transforming colonies into "mandates"
+
+- Colonial rulers try to extend life-cycle of empire by committing to development and welfare
+
+** Anti-Colonial Networks
+** Bolshevik Views on Nationalism and Ethnicity
+** Lenin in 1922
+
+#+begin_quote
+In my writings on the national question I have already said that an abstract presentation of the question of nationalism in general is of no use at all.
+A distinction must necessarily be made between the nationalism of an oppressor nation and that of an oppressed nation, the nationalism of a big nation and that of a small nation.
+#+end_quote
+
+** Baku Congress - 1920
+
+- Bolsheviks connect anti-colonial struggle abroad with transformation of Russian empire at home
+
+** Interwar Trade
+
+- Between 1815 and 1914, world exports increased roughly by a factor of 50
+
+- Made possible by empire, ease of shipping, relatively low tariffs
+
+- World War interrupts this trend, shrinking US trade with Germany to almost 0, for example
+
+** Longer Lasting Effect: Growth of the State
+
+- As Great Depression takes hold, governments across the world abandon liberal principles and take a more direct role in economic management, drawing in part on the experience of the First World War
+
+- That includes: coordination of production and raw material
+
+- Stimulating demand
+
+- Organizing people (conservation corps, etc)
+
+* 2021-10-21
+
+*Decolonization and Development*
+
+** Questions
+** Post-War Decolonization and Partitions
+
+- India/Pakistan 1947
+- Israel/Palestine 1948
+- Indonesia 1945-1949
+- Egypt 1952
+- Vietnam 1945/1954
+- Ghana 1957
+- Mali, Congo 1960
+- Algeria 1954-1962
+
+** Emergence of "Three Worlds"
+
+- First World: The US and its allies
+- Second World: The Soviet Union and its allies
+- Third World: Not aligned with US or Soviet Union
+
+** The Bretton Woods System and the rise of IFIs
+
+- Post-war recovery depends on ability to trade without interruptions
+- Goal: exchange stability, avoid tariff walls and competitive devaluation
+- Dollar as convertible currency; pegged to gold
+- Reserve fund that all member countries can draw on
+- Institutions: IMF and IBRD (now World Bank)
+
+** Truman's Point IV program
+
+- More than half the people of the world are living in conditions approaching misery.
+  Their food is inadequate.
+  They are victims of disease.
+  Their economic life is primitive and stagnant.
+  Their poverty is a handicap and a threat both to them and to more prosperous areas...
+
+- Such new economic developments must be devised and controlled to benefit the peoples of the areas in which they are established.
+  Guarantees to the investor must be balanced by guarantees in the interest of the people whose resources and whose labor go into these developments.
+
+- The old imperialism---exploitation for foreign profit---has no place in our plans.
+  What we envisage is a program of development based on the concepts of fair-trading.
+
+** The Cold War in the "Third World"
+
+- Decolonization and the Cold War
+
+- Political and economic models
+
+- A history of interventions
+
+- Resisting the Cold War: the _Non Aligned_ Movement
+
+- Interdisciplinary insights and the "cultural turn"
+
+** The Foreign Policy of the Cold War: The "Third World"
+
+- USSR starts competing for "Third World" starting ni 1950s.
+  Sending expertise, economic aid, loans, etc.
+  Which path to modernity is best?
+
+- "Non-Capitalist Path"
+
+- Increasingly involved in military support as well.
+  Leads to Cuban Missile Crisis.
+
+- Soviet involvement in Third World is costly, but Moscow finds it impossible to abandon allies and avowed socialists.
+  Involvement also driven by Sino-Soviet split.
+
+** Russian Chinese relations
+
+- Problem of 'primacy'
+
+- Marred by personal problems between Mao and Khrushchev
+
+- Conflict of interests in third world
+
+- Russian aid for industrialization cancelled
+
+- China becomes Moscow's main competitor for the Third World, forces USSR to rethink its approach to post-colonial world in the 1960s
+
+** The "Stages of Growth"
+
+- Point 4 and Bretton Woods help create modern development bureaucracy (TCA -> USAID)
+
+- Also leads to search for models to better understand how and why societies develop.
+
+- Influential center at MIT led by economist Walt Rostow
+
+** Industrial Modernization: The Lewis Model and the "Big Push"
+
+- Sir Arthur Lewis writes influential article in 1954 called "Development with Unlimited Supplies of Labor"
+
+- Argument: in underdeveloped countries, lots of "surplus" labor in the countryside; the same level of productivity could be achieved with less labor.
+  Surplus labor should be made available for industrialization
+
+- Key is to find investor who will make use of this labor
+
+- Version of this model underpins much of development planning in 1950s and 1960s
+
+- Lewis serves as advisor to Kwame Nkrumah in Ghana, later wins Nobel Prize
+
+** Agricultural Modernization: The Green Revolution
+
+- Some development specialists through the primary focus should be agricultural rather than industrial.
+  Hunger was still a persistent threat, and therefore development aid needed to address agricultural productivity first.
+
+- Green revolution: use of High Yielding and drough resistant varieties of wheat, rice, and other crops, along with chemical fertilizer and pesticides
+
+- Increase in productivity is real, but benefits often concentrated among large landholders, environmental costs significant as well
+
+** Cold War Development
+
+- USSR also starts becoming a major development donor after 1955.
+  First in India, Afghanistan, and Indonesia, and later in sub-Saharan Africa and even parts of Latin America
+
+- Financially, USSR cannot compete with US
+
+** The Terms of Trade problem
+
+- Terms of Trade = average exports / average imports
+
+- The less you earn from exports, the less you can import, living standards decline
+
+- Productivity can harm ToT, because you are producing more of a commodity and price goes down
+
+- Raul Prebisch, Argentine economist: to climb out of commodity trap, need to use Import-Substitution Industrialization to change economic structure
+
+- Articulation of "Dependency Theory"
+
+** Dependency Theory
+
+- Rich Nations are rich because resources flow from the poor to the wealthy
+
+- Underdevelopment is not lack of development, but a condition created by imperialism and its economic legacies
+
+- The only way to break out of this cycle is either through de-linking, or by changing the terms of trade
+
+** The Rise and Fall of Development Paradigms
+
+- UN calls 1960s the "Development Decade"
+
+- By end of 1960s, lots of doubts about development.
+  Gaps between rich and poor countries are growing
+
+- Environmental consequences of development are becoming apparent
+
+- Earlier development models has largely ignored gender
+
+- Persistence of neocolonialism -- former European powers still produce finished products (and thus get the most value added) while former colonies are still producing primary commodities
+
+** The New International Economic Order
+
+- Declining terms of trade continues to be a problem.
+  According to FAO, average price of agricultural commodities sold by LDC fell 70% between 1961 and 2001.
+
+- United Nations Conference on Trade and Development founded in 1964, with Prebisch at the helm.
+
+- Leads to campaign for a "New International Economic Order" through the UN.
+
+- Project opposed by northern countries, international institutions; _additionally_ cannot reconcile demand for nation-state sovereignty with distribution of rights and responsibilities
+
+* 2021-10-26
+
+- What kind of limits does environment place on development?
+
+- What are the limits of Socialist universalism?
+
+- What is the role of ecology/resources in industrialization?
+
+- To what extent does culture serve as an obstacle/source of resistance to socialist and capitalist development?
+
+- How do different conceptions of development affect conditions deemed "primitive"?
+
+* 2021-10-28
+
+** Keywords
+
+- Global environmentalism
+- 1970s
+- EPA-1972
+- Communication technology
+- Satellite technology
+- Computing technology
+
+** EPA failed. What do we need to do to change it?
+
+*** Change of paradigm
+
+- backlash
+- poorer standards of living
+- who gets to decide
+
+*** Technology
+
+- expensive
+- band-aid/illusion
+- practicality
+
+*** Both
+
+- jobs
+- inequality
+  + unintended consequences
+
+* 2021-11-02
+
+Neoliberalism and Austerity
+
+** Questions
+
+- What is neoliberalism?
+  How is it different from other forms of liberalism?
+
+- What is the relationship between neoliberalism and (contemporary) forms of globalization?
+
+- What is the relationship between neoliberalism and social welfare?
+
+- How has neoliberalism affected development paradigms?
+
+- Why did so many world leaders turn to austerity in response to the financial crisis of 2008?
+
+** Defining Neoliberalism
+
+- Liberalism/Neoclassical economics: economic actors make decision based on marginal utility; government should interfere as little as possible in this process
+
+- Keynesian Consensus: boom and bust cycle can be managed by adjusting aggregate demand.
+
+- Ordoliberalism state needs to intervene to make sure market fulfills its potential.
+  Foundation of German social-market economy
+
+- Neoliberalism: ?
+
+** Intellectual Origins: Hayek and the Mount Pelerin Society
+
+- Frederick Hayek: Planning is impossible, because it cannot account for human behavior.
+  Attempts to plan lead to government overreach "the road to Serfdom"
+
+- Mt. Pelerin Society becomes an intellectual club for Hayek and like-minded thinkers in post-war decades, when their ideas are outside the mainstream.
+
+** US Neoliberalism: Milton Friedman, Chicago and Virginia
+
+- Milton Friedman and the Chicago School: laying an intellectual basis for a rejection of the administrative estate in the era of New Deal and Great Society liberalism
+
+- Monetarism: best way for government to act is by controlling money supply, not interfering in supply and demand
+
+- Virginia School and Public Choice Theory: Regulators are not objective technocrats, but rather part of interest groups.
+
+** Intelllectual Origins 2: Human Capital
+
+- Theodore Schulz and Gary Becker develop idea of "Human Capital"
+
+- How to account for peoples decision making in a non-abstract way, and to think about how life choices (such as marriage or whether or not to have children) might relate to economic actions
+
+- Government policy--on issues like education, or social welfare, or employment, thus had to understand people not simply as laborers or users of services, but as entrepreneurs who seek to increase their capital and invest it in such a way as to receive the highest possible return
+
+** Neoliberalism and the Welfare State
+
+- Growth of welfare state in Europe and the US
+
+- Problem of the welfare state, from the point of view of its critics
+
+- Synthesis: bring market thinking into the welfare state.
+
+** Neoliberalism and Policy reform
+
+- Family policy: Moynihan Report, 1967
+
+- Deregulation (starting in 1970s)
+
+- Financialization (1980s onwards)
+
+- Repeal of Glass-Steagal Act (1999).
+  Act dated back to 1933 and had separated retail and commercial banking.
+
+** How does Neoliberalism Spread?
+
+- Winning over political leaders
+
+- Diffusionist model (from institutions in the global north outwards to governments in the global south)
+
+- Parallel -- governments around the world struggling with problems of Keynesian, Social Democratic, and Development states turn to similar ideas for reform.
+
+** Neoliberalism and Development: Structural Adjustment
+
+- By late 1970s, critique of "Big Push" development paradigms from right and left
+
+- Developing countries increasingly turning to northern banks to fund social investments.
+  Leads to debt crisis in 1980s
+
+- Structural adjustment: IFIs bail out developing countries, but only in exchange for major transformation of domestic economy
+
+** Conditions of Structural Adjustment
+
+- Decrease Government Spending
+
+  + Reduce workforce in government sector
+
+  + Cut costly programs (welfare, education, pensions)
+
+  + End or reform subsidies for poor
+
+- Improve Terms for foreign investment
+
+  + Lower taxes
+
+  + Devaluee currency
+
+  + Reduce worker power
+
+- Privatize economy
+
+  + Monetize social services
+
+  + Sell off state assets
+
+  + Market regulation of prices
+
+** The Washington census
+
+- Term generally taken to mean a push by US and Washington-based IFIs like the World Bank and the International Monetary Fund
+
+** From "Big Push" to Microfinance
+
+- Consensus on what it will take to get people out of poverty changes as well.
+
+- No longer about creating well-paying jobs by moving them into areas of th economy with higher productivity, but rather getting them to fend for themselves.
+
+- Both IFIs and various Non-Governmental Organizations promote idea of "entrepreneurialism"
+
+- Microcredit, associated with economist Mohammed Yunnis, is the favored tool to get disadvantaged, especially women, to improve their condition
+
+** Welfare Reform in the United States
+
+- Similar principle underlie welfare reform in the United States in the 1990s.
+
+- Ronald Reagan, a conservative Republican president, ran on stereotypes of "welfare queens" taking advantage of the government and honest taxpayers
+
+** The 2008 Financial Crisis
+
+- Throughout 2000s, bank in US are encouraged to lend to "subprime" borrowers -- those whose salaries and assets would make them ineligible for loans.
+
+- Leads to real estate boom and speculation, and eventual bust when prices start to come down.
+
+** The US response
+
+- US response under Presidents Under Bush and then Obama: provide liquidity to rescue the banks, hope homeowners will be helped as well. Troubled Assets Relief Program
+
+- Reality: most banks able to survive, but homeowners are devastated. Close to ten million Americans displaced; 3.1 million foreclosures in 2008 alone.
+
+- Deregulation helped bring about the crash, but there is little new appetite for regulation
+
+** The European Response
+
+- European response much more focused on austerity all around.
+  There are bank bailouts, but the same medicine applied to developing countries is applied to struggling European economies, especially Greece, Italy, and Spain.
+
+- Austerity also arguably becomes an ideology.
+  In United Kingdom, in particular, Conservative-LibDem coalition voted into office in 2010 adopts a politics of austerity, deliberately weakening welfare state.
+
+* 2021-11-09
+
+** What was socialism?
+** The USSR and the Socialist World
+** From Marxism and Marxism-Leninism
+
+- Marx presumed socialism would be built on the ruins of capitalism, workers would take over the means of production, not build them from scratch.
+
+- The challenge for Russian Marxists is how to apply this view of history to a country where capitalism and industrialization are still fairly nascent.
+
+- Do you wait until capitalism has developed further and its contradictions have manifested themselves?
+
+- Or do you make the revolution and then build the economic foundations and the working class that will serve as its primary source of support?
+
+** Socialism and Empire
+** Baku Congress - 1920
+
+- Bolsheviks connect anti-colonial struggle abroad with transformation of Russian empire eat home
+
+- Organize a congress with delegates from across USSR, Turkey, India, and beyond
+
+- Suggests possibility of a broader anti-colonial struggle rather than a working class struggle focused on industrialized countries.
+
+- Also reveals tensions: (i.e., Can Turks and Armenians join together in this struggle?)
+
+** Alternative Globalizations
+
+- Maxim Matusevich: Soviet Union has a clear commitment to anti-racism, but is 1) blind to racism domestically and 2) Soviet discrimination against certain ethnic groups limits its claims
+
+- Kalinovsky: Soviet involvement with post-colonial world forces Moscow to "complete"
+
+** Exporting the Soviet model
+
+- Soviet Union never has equal resources to US and other capitalist countries
+
+- Few clear economic successes among Soviet allies
+
+- Even left leaning countries begin to prefer western aid -- more advanced technology and greater resources
+
+- Frustration among some Soviet citizens who feel the USSR is still too poor to be helping others
+
+** Reality of People's friendship
+
+- Soviet engagement also involves bringing people to the USSR, especially for study
+
+- Patrice Lumumba University of People's Friendship in Moscow is one destination, but almost all institutions host students from abroad
+
+- Some come away with a positive experience, but prejudice and racism are also a reality, one USSR is poorly equipped to deal with.
+
+* 2021-11-16
+* 2021-11-30
+
+** Resistance
+
+*** Class Response
+
+- Trump + populism/alt-right
+
+  + Tariffs
+
+- Isolationism
+
+- Religious fundamentalism
+
+*** Response from 10 years ago
+
+- Occupy Wall Street
+
+- Seattle -- 1999
+
+- "No logo"
+
+- Anti-sweatshop
+
+* 2021-12-02
+
+Final exam review
+
+** Questions
+
+1. How do we explain differences in development?
+2. What is the relationship between interdependence and integration and development?
+3. What are the origins of trade routes and how does their history relate to the history of development?
+4. Is globalization beneficial and if so, for whom?
+5. Does cultural homogenization follow from globalization?
+6. What is the relationship between geography development and conflict?
+
+** Attacking questions
+
+- First thing is think about the meaning of the key terms
+  + Ex: for question 2, what are integration and development?
+    - Integration: Institutions (UN, LoN, WB), Supply chains (raw -> intermediate -> consumer product)
+    - Example Thesis: Bretton Woods Institutions provide funding + expertise, but also homogenize what development means. The definition of institution/path changes over time
+    - Example essay structure:
+      + Background
+      + Microcredit
+      + Free trade (as opposed to ISI tariffs)
+      + Domestic budgets (education, welfare, etc)
+      + Conditionality
+      + Conclusion
+
+** Another example
+
+Thesis:
+
+Example essay structure:
+- Background
+- Materials
+- Labor
+- Markets
+- Benefits
+- Losses for Congo
+- Conclusion

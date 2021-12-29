@@ -1,0 +1,1461 @@
+#+TITLE: Reading Notes
+
+
+* Week 1: Introduction
+
+** Background
+
+We will start by trying to answer some basic questions about the main subjects of this course: development and globalization.
+What are they?
+Where do they come from?
+How long have they been around?
+What do they do?
+And we'll identify some other questions we can ask as we make our way through the course.
+
+** Readings
+
+*** Thursday, August 26 The Biological Old Regime: Common Patterns around the World
+
+[[pdf:~/School/HIST0862/week1/The_Origins_of_the_Modern_World_A_Global_and_Envir..._----_(Pg_14--53).pdf::1++0.00][Marks, The Origins of the Modern World, 1-40.]]
+
+*** Further reading
+
+"Globalization," in Frederick Cooper, Colonialism in Question: Theory, Knowledge, History (Berkeley: University of California Press, 2005), 91-112.
+
+** "The Origins of the Modern World", Marks (pp. 1-40)
+
+*** The Rise of the West?
+
+- Most of human civilization developed in an atmospheric carbon dioxide around 280 ppm according to James Hansen. Now its around 400 ppm.
+
+  + This can be attributed to industrialization.
+
+  + How did the world get to this point?
+
+  + The story of the modern world revolves around the historical unfolding of four interrelated themes:
+
+    1) When, how, and why some parts of the world first industrialized, and how those processes were then picked up and used by people in other parts of the world.
+
+    2) That of the emergence of nation-states as the principal way people over the past two centuries have organized themselves politically.
+
+    3) Industry initially gave some states in western Europe and North America increasing wealth and power, so much so that a large and growing gap emerged between the wealthiest and poorest parts of the world.
+
+    4) The interrelationship between the environmental context in which those elements of the modern world emerged and the ways people and their actions in turn changed and continue to change the environment.
+
+       Scholars argue we are entering a new geologic era--the Anthropocene--in which "humankind...has become so large and active that it now rivals some of the great forces of Nature in its impact on the functioning of the Earth system."
+
+  + Just 250 years ago, India and China were dominant in the global economy.
+    How did industry and European-style countries called nation-states---rather than highly developed agrarian empires like China and India---come to define our world?
+
+  + The predominant explanation has been "the rise of the West".
+    However, recent research shows this explanation is no longer persuasive.
+
+**** The Rise of the West
+
+- The concept of the rise of the West provides both a rationale and a story line that purports to explain not just the modern world, but why it is defined by primarily European features.
+
+- It began to emerge shortly after the Spanish conquest of the Americas, during the Italian Renaissance of the sixteenth century.
+
+- In the late 1700s, this story line continues, the French Revolution of 1789 reinforced the awareness in European minds not just that Europeans were different from the rest of the world, but also that Europeans were "progressing" rapidly while the rest of the world appeared to be stagnating, that Europeans were somehow exceptional---better, even---than the rest.
+
+- Democracy in Greece --> Romans --> Christianity --> ancient Greek heritage (Renaissance --> Enlightenment --> French and American revolutions)
+
+- If the West was "rising" during the 18th century, it complete its ascent in the 19th century.
+
+- Karl Marx and Friedrich Engels believed that 19th-century European expansionism was bringing "progress" to the rest of the world.
+
+**** "The Gap" and Its Explanation
+
+- Since the mid 19th century, European social theorists have been aware of a growing gap between the industrialized countries and the rest of the world.
+
+- Believing both that western Europeans---and they alone---had unlocked the secret of modernization.
+
+- 1970: environmental problems such as pollution prompt historians to ask how and why it happened
+
+- Why does the issue of the rise of the West matter? Why study history?
+
+  + Understandings of our past have real implications for present decision making
+
+- The idea is that the institutions and values that supposedly propelled the rise of the West are universal and must be adopted throughout the world.
+
+**** Eurocentrism
+
+  - Eurocentrism: viewing history from a European point of view and that European people and culture are the best in the world
+
+    + Eurocentrism a paradigm: a set of assumptions about how the world works
+
+  - Only a global story line---one not centered on Europe---will suffice to explain the origins of the modern world.
+
+**** Stories and Historical Narratives
+
+- By exploring a narrative outside of the rise-of-the-West matrix, we
+
+  1. Provide an independent way to tell which parts, if any, of the rise-of-the-West paradigm can be kept and which need to be rejected
+
+  2. Help readers examine critically their own assumptions about how the world works.
+
+  3. Raise the more general issue of how we know what we know about the world and its history.
+
+- Three concepts:
+
+  + Historical contingency
+
+    - E.g., rise of West was inevitable due to historical advantages of Europeans
+
+  + Of accident
+
+    - E.g., coal deposited hundreds of millions of years ago just happens to be abundant where people live
+
+  + Of conjuncture
+
+    - Things happening in different parts of the world for reasons having to do with local circumstances that then became globally important
+
+    - E.g., China decides to use silver as currency in 1400s.
+      Europeans discover abundant supplies of silver and demand for silver from China.
+      Europe and China form trade route (silver in exchange for silks, spices, porcelains).
+
+**** The Elements of an Environmentally Grounded Non-Eurocentric Narrative
+
+- We have to analyze the world as a whole, rather than particular countries or even regions (e.g., "Europe", "East Asia")
+
+- Think of the world in the 1400 as having been composed of several regional systems, i.e., "polycentric"
+
+- We will see how China and India play significant roles in shaping the world
+
+*** The Material and Trading Worlds, circa 1400
+
+- Two kinds of worlds:
+  1. The material and environmental (isolated)
+  2. The trading or commercial world (interconnected)
+
+- Key concepts:
+  + Rise of civilization and agricultural revolution
+  + Relationships:
+    - Cities and countryside
+    - Ruling elites and peasants (i.e., agriculturalists or villagers)
+    - Civilizations and nomadic pastoralists
+  + These relationships constitute the biological old regime
+  + The world system
+  + Globalization: pros and cons; not a new thing
+  + Polycentric, core, periphery
+  + 15th century world, all people shared a basically similar material world
+
+*** The Biological Old Regime
+
+**** The Weight of Numbers
+
+- From 1400 to 1800, ~80% of the population were farming peasants and direct producers of food for themselves and the rest of the population.
+
+- Population had been rising since ~900CE until the Black Death in 1350.
+
+- Population has been increasing since 1700 and has yet to stop.
+
+**** Climate Change
+
+- Climate change is linked to higher populations as warmer climatic conditions improve harvests
+
+**** Population Density and Civilization
+
+- The 380 million people living in 1400 were not uniformly distributed geographically, but clustered.
+
+- Population clustering explains why China, India, and Europe play an important role in this book.
+
+**** The Agricultural Revolution
+
+- ~11,000 years ago, people in the "Fertile Crescent" region people learned how to grow their own food and to raise their own animals.
+
+- Agricultural revolution gave rise to two additional defining characteristics of "civilization": cities and writing
+
+- Cities and their surrounding agricultural areas typically weren't self sufficient, so they traded with other cities/nomads.
+
+  + This leads to the rise of empires.
+
+**** Towns and Cities in 1400
+
+- The world's largest urban popluations in 1400 roughly equal to 1% of world population
+
+- In 1400, the largest cities were in China
+
+**** Nomadic Pastoralists
+
+- Pastoral nomads, mobility on horses was a way of life
+
+  + Not self-sufficient => symbiotic relationship between nomads and civilizations
+
+- When civilizations weakened, they became susceptible to nomadic raids, invasion, destruction, or conquest, e.g.:
+
+  + The fall of the Roman and Han Chinese empires (300-600 CE)
+
+  + The Mongol invasions of China and Europe in the 13th century
+
+- Self-sufficient tribes would also challenge the civilizations, "barbarians"
+
+**** Wildlife
+
+- Wolves roamed throughout Europe, attacking Paris in 1420, 1438, and in the 1700s.
+
+- Tigers inhabited most of China at one point and would periodically attack Chinese villagers.
+
+- From 1400 to 1800, Africa and the Americas had the greatest diversity and density of animal species.
+
+  + In Africa, humans and animals evolved together
+
+  + In the Americas, European diseases had wiped out much of the native population, which gave rise to a sharp increase in animal population
+
+- Relationship: more people = less wildlife
+
+**** Population Growth and Land
+
+- From 1400 to 1800, population in China nearly quadrupled from 85 to 320-350 million from increase in cultivated land and more intensive tilling/fertilizing.
+
+- As a result, much land is challenged, displacing wildlife and "uncivilized" people.
+
+- With good climatic conditions and hence better harvests, peasant families might look to increase their size.
+
+- Diet and caloric intake, along with epidemic disease, famine, war, and other disasters, kept human life expectancy much shorter than it is today.
+
+**** Famine
+
+- Food shortages, dearth, famine was common in 1400
+
+- Peasant families gave up as much as half of their harvest to the state and landlords
+
+- Famine was mostly a "social" phenomenon rather than a "natural" one
+
+**** The Nitrogen Cycle and World History
+
+- Limited amount of reactive nitrogen in soil
+
+- Animal feces and green manure (chopped up legumes) used to maintain soil fertility
+
+- From 1400 to 1800, farmland tripled from 180 to 540 million hectares, growing the world population from 380 to 950 million
+
+**** Epidemic Disease
+
+- As the world became more connected, epidemic disases spread much quicker
+
+*** The World and Its Trading System circa 1400
+
+- 14th century, the Old World---Eurasian continent + Africa---was connected by 8 interlinking trading zones within 3 great subsystems
+
+  1. East Asia subsystem linked China and the Spice Islands in equatorial Southeast Asia to India
+
+  2. The Middle East--Mongolian subsystem linked the Eurasian continent from the eastern Mediterranean to Central Asia and India
+
+  3. The European subsystem, centered on the fairs at Champagne in France and the trading routes of the Italian city-states of Genoa and Venice
+
+- 3 primary trade routes linked the subsystems:
+
+  + The northern route up through the Black Sea, overland through the Mongol emppire, all the way to China.
+
+  + A central trade route went through Baghdad and then via the Persian Gulf into the Indian Ocean, thereby giving traders access to the spices and products of East and Southeast Asia.
+
+  + A southern route went from Cairo, controlled by the Mamluk empire, overland south to the Red Sea, and from there into the Indian Ocean as well.
+
+- Historians only recently have adopted a more global approach
+
+- Remarkably, the world trading system functioned without a central controlling or dominating force
+
+  + Thus, the world in the 14th century was polycentric, arguably staying that way until around 1800 because of the Europeans
+
+  + The world in the 14th century was polycentric: it contained several regional systems, each with its own densely populated and wealthy "core," surrounded by a periphery that provided agricultural and industrial raw materials to the core, and most of which were loosely connected to one another through trade networks.
+
+- In short, the polycentric conception of the world is a crucial part of a non-Eurocentric narrative of world history.
+
+- The Afro-Eurasian system circa 1300 is a called a "world system" because it was greater than any one given part and it involved all the parts of the world where people traded and hence knew something about one another.
+
+**** The Black Death: A Mid-Fourteenth-Century Conjuncture
+
+- Mid- to late 1300s constituted a serious crisis in world history.
+
+  + Collapse of the Mongol Empire around 1350
+
+  + The Black Death killed tens of millions of people in the mid-1300s.
+
+- The conditions at the time made Europe prone to disaster at any time.
+  The plague was that disaster.
+
+- The Europeans had developed a regional trading network linked by the activities of Italian merchants from the city-states of Genoa and Venice.
+
+- The trading city of Caffa (Kaffa), located on the Black Sea, was the link between the trans-Eurasian trade routes: it was the western terminus for caravan trade from China and the eastern terminus for trade carried on Venetian and Genoese ships, both of which apparently docked at Caffa in December 1346.
+
+- At the time, Caffa was being besieged by the forces of a Mongol prince.
+
+  + It would've fallen if the plague didn't nearly wipe out the Mongols.
+
+  + Infected Italians boarded ships bound for home, spreading the plague across Europe, the Middle East, and North Africa.
+
+- Like famine, the plague was not purely "natural" phenomenon but instead required a host of circumstances--a conjuncture--to come together for it to have such a major impact on the world and its history.
+
+*** Conclusion: The Biological Old Regime
+
+- Macroparasites: Elites living off peasants, civilizations fighting off or losing to nomadic invaders
+
+- Microparasites: Germs multiplying inside of and then killing nomads and city dwellers alike
+
+- "biological ancien regime": balancing act of macroparasites and microparasites in the context of environmental circumstances that limited the nutrients and food humans could gather or raise for themselves
+
+- The biological old regime was limiting as it relied on /renewable/ sources of energy, supplied annually by the sun, to grow crops for food and trees for fuel
+
+- To support a growing population, something had to change in terms of the relationship of people to the availability of land and their efficiency in working it
+
+* Week 2: Conquests and World Order
+
+** Background
+
+Our aim this week is two fold: first, to uncover some of the interconnections that predate the 19th and 20th centuries, and second, to think about what sort of connections conquest and trade enabled, and with what consequences, in those earlier centuries.
+This week you will be looking at primary sources – accounts written by participants in these processes.
+We'll talk about how we can read these sources, what kind of questions we can ask of them, and what they ultimately reveal about our understanding of how different places have been connected in earlier epochs.
+
+** Readings
+
+*** Tuesday, August 31 China, Eurasia, and the Abode of Islam
+
+[[pdf:~/School/HIST0862/week2/The_Origins_of_the_Modern_World_A_Global_and_Envir..._----_(chapter_two).pdf::25++0.00][Marks, The Origins of the Modern World, 41-65.]]
+
+[[pdf:~/School/HIST0862/week2/ibn_battuta.pdf::7++0.00][Ibn Battuta, “Travels in Western Central Asia in the Fourteenth Century” in Levi and Sela, eds., Islamic Central Asia: An Anthology of Historical Sources (Bloomington: Indiana, 2010), 153-158.]]
+
+*** Thursday, September 2 Conquests in the New World
+
+[[pdf:~/School/HIST0862/week2/The_Origins_of_the_Modern_World_A_Global_and_Envir..._----_(chapter_three).pdf::1++0.00][Marks, The Origins of the Modern World, 67-81.]]
+
+[[pdf:~/School/HIST0862/week2/las Casas Bartolome Short Account of the Destruction of the Indies 1992.pdf::1++0.00][Bartolome de las Casas, A Short Account of the Destruction of the Indies, ed. and trans. Nigel Griffin (London: Penguin Books, 1992), 3-4, 31-6, 107-15, 127-30.]]
+
+** "The Origins of the Modern World", Marks (pp. 41-65)
+
+*** Starting with China
+
+- How important were Christopher Columbus and Vasco da Gama's exploration in the emergence of the modern world?
+
+  + Eurocentric interpretations tend to see them as major steps for the rise of the West
+
+  + Others think its important to put these voyages in a broader global context of the real structure of wealth and power in the world around 1500
+
+    - From this perspective, the Indian Ocean can be seen as the most important crossroads for global exchanges of goods, ideas, and culture, with China, India, and the Islamic Near and Middle East meeting there as the major players
+
+    - Europe as a peripheral, marginal player trying desperately to gain access to the sources of wealth generated in Asia
+
+      + This chapter thus starts in Asia, with China
+
+**** China
+
+- Founding emperor of China's Ming dynasty (1368--1644) dies in 1398.
+
+  + The emperor's eldest son's eldest son (grandson) appointed to throne
+
+  + Emperor's fourth son Prince of Yan declares civil war against his nephew, capturing the throne
+
+    - As the new emperor Yongle, the Prince of Yan sought to extend China's power and influence in all directions
+
+      + Campaigned north and northwest against the Mongols
+
+      + Moved the capital from Nanjing ("Southern Capital") on the Yangzi River
+        farther north to Beijing ("Northern Capital") less than 100 miles from Great Wall,
+        the last defense against Mongol invasions
+
+      + Sent embassies far into Central Asia to secure acknowledgement by those rulers of China's preeminence
+
+      + Intervened in affairs in Vietnam:
+        put rulers favored by China on the throne,
+        incorporate Annam, as northern Vietnam was then called, into the Chinese empire
+
+      + In one of the greatest adventures in world history, launched massive maritime expeditions into the Indian Ocean
+
+**** The Voyages of Zheng He, 1405--1433
+
+- Fall 1405, largest fleets of ships to appear until 500 years later, led by Admiral Zheng He---began assembling in mouth of Yangzi River on China's eastern coast
+
+- Over 300 ships manned by 27,000 sailors
+
+  - waited for reliable winter monsoon winds to begin blowing from the northwest
+
+  - take them south toward Indonesia and then west through the Strait of Melaka into the Indian Ocean
+
+  - bound to Calicut, a major trading city on India's west coast
+
+- Three primary objectives:
+
+  1. Track down the emperor's nephew (rumored to have escaped)
+
+  2. Show the flag to impress foreign countries, proving China was the wealthiest, most powerful civilization in the world
+
+  3. Encourage overseas trade.
+
+- When Prince of Yan took throne as the Yongle emperor, China was experience economic difficulties
+
+  + China's monetary system, based on paper money, had collapsed along with the Mongols
+
+  + Government eventually abandons paper money altogether, leaving huge unmet need for currency
+
+    - Initially, used copper coins from previous dynasties
+
+    - Eventually reopened silver mines and allowed unminted silver bullion to be used to settle private commercial transactions
+
+      + Insufficient domestic production of silver requires import from Japan
+
+      + Silver becomes popular, government begins taxing for silver, creating huge demand
+
+- Collapse of Mongol empire in mid-1300s led to
+
+  + severing of overland trade routes linking east and west Eurasia
+
+  + and a recognition by the emperor that an aggressive foreign policy might bring some rewards to China
+
+    - pushing back the Mongols in the north and exploring opportunities in what the Chinese called the "Western Ocean," that is, the Indian Ocean.
+
+- From 1404 and 1407, China built ~1,681 ships
+
+  + The largest--nine-masted "Treasure Ships" of Admiral Zheng He---were ~400ft long, ~160ft wide (larger than American football field)
+
+  + Extreme use of wood, needed to be floated ~1000mi down Yangzi River to the shipyards
+
+- From 1405 to 1433, the Chinese had 7 two-year voyages
+
+- For the 4th voyage (1413-1415) to Arabian port city of Hormuz and the Persian Gulf, the admiral took on board Ma Huan, a Chinese Muslim well versed in both Arabic and classical Chinese
+
+  + The admiral was Muslim too and his father's name was Hajji
+
+  + There had been Arabic speaking people on previous voyages, but this time the emperor and admiral had their own interpreter, Ma Huan
+
+    - Brought ambassadors from a large number of Muslim lands
+
+- On 7th voyage, Admiral Zheng He contacted the sultan of Egypt, who allowed him to call at the port of Jedda, just a few days from Mecca on the Arabian peninsula
+
+  + On return trip, China established formal relations with twenty more realms.
+
+- By 1435, China had a secure prescence on the Indian Ocean
+
+- However by 1500, since China's last voyage, the Chinese seaborne power had declined rapidly and China's navy practically became nonexistent
+
+  + China's withdrawal of the most powerful navy on Earth turns out to have immense implications for the course of world history
+
+  + Why did China's navy abandon the Indian Ocean?
+
+    - Politics.
+
+      + Focus on strengthening the northern borders and the Great Wall
+
+  + China still traded over the Indian Ocean though
+
+**** India and the Indian Ocean
+
+- 650: expansion of Islamic world and establishment of Tang dynasty in China
+
+- 1750: British colonization of India on the eve of Industrial Revolution
+
+- From 650 to 1750, the Indian Ocean arguably was the single most important crossroads of trade and generator of merchant wealth in the world
+
+- 3 useful subdivisions:
+
+  + 650--1000
+
+    - Arab traders and mariners carried goods and ideas all the way from Islamic Near East to Southeast Asia and China, and back again
+
+    - Arab traders spread their language and the Islamic religion throughout the region, from East Africa to Indonesia, providing a common language and culture for those who traveled there
+
+    - In 9th century, over 100,000 Arabs, Persians, and Jews had taken residence in south China city of Guangzhou, and the Islamic mosque built there served as a beacon for ships sailing into its port
+
+  + 1000--1500
+
+    - Chinese merchants saw profits to be made in the trade with/without support of government, sailing into the Indian Ocean to compete with Arabs
+
+      + The Chinese entrance into the Indian Ocean divided trade into three overlapping circuits, determined largely by the pattern of monsoon winds
+
+        1. In western zone, from East Africa to the Red Sea, the Persian Gulf, and the west coast of India, Arab traders were most active (along with some Indian merchants)
+
+        2. The central circuit from Ceylon to the Bay of Bengal and to Southeast Asia was dominated by Indian merchants (large presence of Arabs and other Muslims)
+
+        3. The Chinese dominated the South China Sea trade circuit from China to Indonesia and the Strait of Melaka
+
+      + In these three zones, great trading cities arose to handle the trade
+
+        - Western circuit: ports of Aden, Hormuz, Cambay, Calicut, Mogadishu, Kilwa
+
+        - Linking eastern and middle circuits: Melaka
+
+    - During first two periods (650--1500), trade in Indian Ocean appeared self-regulating
+
+      + No convoys needed
+
+      + No trading cities walled/fortified
+
+  + 1500--1750
+
+    - Portuguese, Dutch, English, French introduce "armed trading" into Indian Ocean
+
+      + Forced others to arm themselves or pay for protection
+
+      + Tried to control shipping lanes and port cities by force, to monopolize, if they could, trade in commodities valued in Europe
+
+      + Still, Europeans were not able to undercut trade by Arab, Indian, or Chinese ships until the late 1800s (the advent of steamships)
+
+- Four great centers of civilization and economic power provided the impetus for the Indian Ocean trade:
+
+  1. Islamic Near and Middle East
+
+  2. Hindu India
+
+  3. China
+
+  4. Indonesia (the Spice Islands)
+
+- At Melaka, China
+
+  + Exported: silk, porcelain, iron- and copperwares
+
+  + Imported: spices, other edibles, peals, cotton goods, and silver
+
+- Middle East and East Africa, India
+
+  + Exported: cotton textiles, other manufactured goods
+
+  + Imported (from Africa and the Arabs): palm oil, cocoa, groundnuts, and precious metals
+
+- In general, China and India exported manufactured goods and imported agricultural and other raw or primary products of the ocean, forest, or mines, including silver or gold
+
+- The engines of this immense global trade were primarily China and India.
+
+- In the 15th century, one historian wrote
+
+  #+begin_quote
+  China was still the greatest economic power on earth.
+  It had a population in excess of 100 million, aprodigiously productive agricultural sector, a vast and sophisticated trading network, and handicraft industries superior in just about every way to anything known in other parts of Eurasia.
+  After a visit to the great century, for example, a European diplomat described the Chinese goods he found there as "the richest and most precious of all [imported into the city]..., for the craftsmen of [China] are reputed to be the most skillful by far beyond those of any other nation."
+  #+end_quote
+
+- As a great agrarian empire, China produced much of what it needed though it did need to trade for horses, some raw materials, preciosities, and silver
+
+- India had 3 great textile manufacturing centers:
+
+  + Gujarat on the west coast
+
+  + Madras in the south
+
+  + Bengal on the east
+
+- Most cotten cloth met internal Indian demand, but considerable amount was produced for export
+
+- Unlike China, India at the time was not a unified empire and indeed had a history of both political disunity and unity imposed by outside conquerors
+
+- In the 8th century, Arabs spreading Islamic faith invaded north India and did so again at the end of the 10th century
+
+**** Dar al-Islam, "The Abode of Islam"
+
+- (1325) Ibn Battuta travels throughout Asia/Africa
+
+  + Almost everywhere he went was /dar al-Islam/ "the abode of Islam," or places in the world where Islam was practiced and educated people spoke (or wrote) Arabic, the language of the Quran
+
+- The significance of the spread of Islam for the course of world history was profound
+
+  + Created realm of common language and custom covering much of the Old World
+
+    - trade, ideas, culture developed
+
+- Ottoman empire originated in late 13th century when Turkish nomads, led by Osman Bey, began consolidating their power on the Anatolian peninsula
+
+- /Ghazi/ - Muslim religious warriors
+
+- Constantinople - Capital of Byzantine empire and eastern outpost of Christendom (Eastern Orthodox, not Roman Catholic)
+
+- Ottoman forces besiege Constantinople in the middle of 15th century
+
+  + It falls in 1453, Ottomans make it their capital (renamed to Istanbul)
+
+    - Huge blow to Christian Europe
+
+      + Represented POI for recapture of Palestine and Jerusalem
+
+**** Africa
+
+- Ibn Battuta points out extent and power of Islamic empires in the early modern world, even into Africa
+
+- Kings of Ghana converted to Islam, continuing to expand the kingdom
+
+- Even more extensive than Ghana was Mali empire that replaced it
+
+***** Slavery
+
+- Slaves were used in virtually every society discuessed so far in this book:
+
+  + Europe
+
+  + Islamic empires
+
+  + China
+
+  + India
+
+**** Europe and the Gunpowder Epic
+
+- Europe was actually pretty divided
+
+- Late 14th century: cannons fired by gunpowder
+
+- Chinese invented gunpowder and cannons starting ~1000CE
+
+  + Mongols got access and improved upon it with "bombards"
+
+    - Europeans make better cannons
+
+- 1000--1500
+
+  + Major activity of European rulers was warfare
+
+- (1453) Ottoman Turks used cannons to capture Constantinople
+
+- By 1453 cannons proved their worth to the leaders of the hundreds of various-sized political entities spread across Europe
+
+- French military power consolidated grip on Burgundy and then Brittany, invading Italy in 1494
+
+  + Florence attacked Pisa in 1500 with new cannons, but berm fortifications (dirt dug up from trench) effectively held up against the attacks
+
+***** Armed Trading on the Mediterranean
+
+- Reason for much of the warfare was attainment, maintenance, and enhancement of wealth and power
+
+- By 1400s, only one route to Asia for Europeans: the Venetian connection through Egypt
+
+***** Portuguese Explorations of the Atlantic
+
+- 1415 Henry the Navigator
+
+  + Determined to find route that would
+
+    - Establish direct trade with Asia
+
+    - Cut out both Venetians and Egyptians
+
+    - Outflank the Muslims
+
+  + Began quest with attack on Muslim positions
+
+  + Admiral Zheng He already secured Indian Ocean
+
+  + However Portugese able to sail Indian Ocean remarkably free from naval power or port cities protected by walls or bastions
+
+***** Armed Trading in the Indian Ocean
+
+- 1498 Vasco da Gama set sail for Calicut on India's west coast
+
+- Portuguese moved into South China sea after taking Melaka
+
+- Portugese traded with Japan, and because Japanese trade with China had been banned, they profited handsomely by taking silver and gold from Japan to China and returning with silks
+
+***** Conclusion
+
+- Early modern world system made possible by three factors
+
+  1. Technological advantage
+
+  2. Climatic and geographic constraints
+
+  3. Consumer tastes and social conventions
+
+** "Travels in Western Central Asia in the Fourteenth Century", Ibn Batutta
+
+*** Introduction
+
+- In the 14th century, a Muslim traveler from North Africa, Abu 'Abdallah Ibn Battuta, produced one of the greatest travel accounts ever written.
+
+- In 1325, at 21 years old, he left to Morocco for the annual pilgrimage to Mecca.
+  Encountering new people and places, he had the urge to explore the world.
+
+- After multiple pilgrimages to Mecca and some time exploring the Middle East and East Africa, he went to Anatolia and then sailed across the Black Sea to the Crimean peninsula (territory of Uzbek Khan, Chinggsid ruler of the Golden Horde).
+
+- Spent 3 years going southward through Qïpchaq Steppe, Khorezm, Transoxiana, and Afganistan, until finally entering India and spent much of a decade in service of Sultan Muhammad ibn Tughluq
+
+- Other places: Bengal, the Maldives, Sumatra, Beijing, Granade, and Timbuktu
+
+- Ibn Battuta returns to North Africa in 1354 and the sultan of Fez orders him to record the full account of his experiences so they may be retained for posterity
+
+  + The product is both a magnificent travel account, introspective autobiography, and historical ethnography
+
+  + However there are some errors in his account (he wrote it ~30 years after his initial departure from Tangier)
+
+- This document begins with his arrival at the Crimean port of Caffa and his entrance into the land of Uzbek Khan, renowned for spreading Islam to the Turkic peoples of the Golden Horde.
+
+  + Ibn Battuta's observations reveal much about the lives of these recently converted Turkic nomads.
+
+  + The austere qazi is especially surprised to find that these Muslims used millet, another grain, to make buza, an alcoholic beverage similar to beer that was permitted according to the Hanafi legal school.
+
+- This document leaves off with Ibn Battuta's account of Khorezm, Uzbek Khan's southernmost territory, which appears to have completely recovered in the century since the Mongol conquests, and adopted a strikingly orthodox Sunni-Muslim ethos.
+
+*** Asia Minor and South Russia
+*** Turkestan and Khurasan
+
+** "The Origins of the Modern World", Marks (pp. 67-81)
+
+*** Empires, States, and the New World, 1500-1775
+
+- 1500--1775
+
+  + Many ways the world was organized began to change
+
+  + New linkages led to exchange around the world of commodities, ideas, germs, foods, and people
+
+**** Empire Builders and Conquerors
+
+***** Russia and China
+***** Mughal, Safavid, and Ottoman Expansion
+***** The Dynamics of Empire
+***** The Americas
+***** The Inca
+
+**** The Conquest of the Americas and the Spanish Empire
+
+***** The Columbian Exchange
+
+- Conquest of the Americas led to global exchange of peoples, pathogens, natural products, and foodstuffs (especially of New World foods to the Old World agrarian economies)
+
+  + Maize (corn), potatoes, tomatoes, chilies, and other foods spread rapidly throughout Eurasia, enriching diets of commoners and elites alike
+
+- Columbian Exchange was a two-way exchange
+
+  + Brought two separate disease pools into contact
+
+***** The Great Dying
+***** Labor Supply Problems
+***** Silver
+***** The Spanish Empire and Its Collapse
+***** China's Demand for Silver
+
+**** The New World Economy
+
+***** Sugar, Slavery, and Ecology
+
+- Two triangles of trade linked the Atlantic world (emerge in 17th and maturing in 18th century)
+
+  1. Linking England to Africa and the New World
+
+     a. Commodities in America --> Finished goods in England --> Slaves in Africa
+
+  2. Linking Africa and the New World to England
+
+     a. Rum in England --> Slaves in Africa --> Molasses in Carribean --> Rum in New England
+
+**** The Global Crisis of the Seventeeth Century and the European State System
+
+***** State Building
+***** Mercantilism
+
+*** The Seven Years' War, 1756--1763
+
+* Week 3: Institutions and Politics
+
+** Background
+
+Scholars, policymakers, and practitioners who work on development are constantly debating why some places become "developed" while others do not.
+One of the theories advanced in recent decades is that what matters are "institutions" that create the groundwork for economic growth.
+We will look at one of the more influential texts in this literature, by the economists Acemoglu and Robinson, and try to understand where the authors are coming from.
+Then we'll try to evaluate their reading of history by using what we learned in previous weeks, as well as considering a different explanation (from Karl Polanyi) initially advanced in the 1940s which has gained renewed attention in recent years.
+
+** Readings
+
+*** Tuesday, September 7
+
+[[pdf:~/School/HIST0862/week3/The_Origins_of_the_Modern_World_A_Global_and_Envir..._----_(Pg_98--113).pdf::1++0.00][Marks, The Origins of the Modern World, 81-96.]]
+
+[[pdf:~/School/HIST0862/week3/Acemoglu Understanding Poverty and Prosperity.pdf::1++0.00][Acemoglu, D and J Robinson (2012), ‘Understanding Prosperity and Poverty,’ Chapter 15 in their book, Why Nations Fail: the Origins of Power, Prosperity and Poverty. London: Profile Books, pp.428-62. [Canvas]​]]
+
+*** Thursday, September 9
+
+[[pdf:~/School/HIST0862/week3/Karl Polanyi - The Great Transformation - The Political and Economic Origins of Our Time (2001).pdf::1++0.00][Polanyi, K. (2001 [1944]) The Great Transformation: The Political and Economic Origins of Our Times (Boston: Beacon Press), Chap. 5, “Evolution of the Market Pattern” and Chap. 6, “The Self-Regulating Market and the Fictitious Commodities: Labor, Land and Money”. [Canvas]​]]
+
+** "The Origins of the Modern World", Marks (pp. 81-96)
+
+*** Silver
+
+- The Great Plundering
+
+- Thousands of tons of silver came out of Potosí
+
+- Why silver and not gold?
+
+*** The Spanish Empire and Its Collapse
+
+- Spain's rulers try to take over Europe
+
+- Spain had many wars with France and the Dutch
+
+- Wars too costly, not even the silver was enough
+
+- Spanish defeat leads to competitive system of sovereign nation-states
+
+*** China's Demand for Silver
+
+- Columbus and Vasco da Gama looked to access riches of Asia
+
+- Portuguese land on Indian Ocean and China Sea, realizing they are too poor to buy Asian spices and goods
+
+- Spanish secure trade route after controlling Manila
+
+- Massive demand for silver in China for economic growth
+
+- No China => no Potosí => no attempt at Spanish empire
+
+- Massive population and production growth in Asia
+
+- Asian imports were extremely cheap and well-made
+
+- Europeans at great competitive disadvantage to Asians
+
+*** The New World Economy
+
+**** Sugar, Slavery, and Ecology
+
+- Plantation system using imported African slave labor
+
+- Native Tupi were low in numbers and unwilling to work, so Portuguese resorted to using African slaves
+
+- Even before the discovery of the New World, Portuguese had worked slave-based plantation system for sugar
+
+- Slavery and sugar plantations were dominant features of the Portuguese colony in Brazil
+
+- French and English create slave-based sugar plantations on Caribbean islands
+
+- Extreme use of Caribbean islands caused complete deforestation, wrecked soil, and local climate change
+
+- Ecological destruction through sugar plantations lead to spread of deadly illness through ditches of water
+
+  + African slaves bring virus
+
+  + Local mosquitoes bite, carry, and transfer virus
+
+- Populations not immune/resistant were susceptible
+
+- Two triangles of trade linked the Atlantic world:
+
+  1. England to Africa and the New World
+
+     a. Commodities from America
+
+     b. Finished goods in England
+
+     c. Slaves in Africa (to obtain commodities)
+
+  2. England's North American colonies to Africa to the Caribbean
+
+     a. Rum from America
+
+     b. Slaves in Africa
+
+     c. Molasses in the Caribbean (to produce rum)
+
+- European and North American colonists made a lot of money
+
+*** Human Migration and the Early Modern World
+
+- Humans evolved as a species around 200,000 years ago in eastern Africa, progressively dispersing around the world
+
+- Reasons to migrate:
+
+  + Economic
+
+  + Social
+
+  + Political
+
+  + Religious
+
+  + Environmental/climatic disasters
+
+  + Exploration
+
+- Migration requires learning new language/culture
+
+- Maritime technologies
+
+- Expansion of empires (Mongol, Chinese, Ottoman, etc.)
+
+- Migration <=> globalization
+
+- Migrants establish settler colonies around the world, often free men who would
+
+  + Have children with local women
+
+  + Create mestizo cultures and communities
+
+  + Exchange language, religion, tools, foodstuffs
+
+- Mestizo communities were result of actions of colonizers upon the colonized and enslaved; of which their creation involved
+
+  + violence
+
+  + trauma
+
+  + oppression
+
+- "Transculturation"--two-way process of creating new cultures
+
+- Ocean-crossing voyages led to:
+
+  + Vast amount of new trade between parts of the world
+
+  + Human suffering, Columbian Exchange, enslavement of Africans
+
+- Greatest migration of people caused by slavery (~100,000 per year)
+
+- Africans, despite being enslaved, brought language, religious practices, skills, and cultures
+
+- Columbian Exchange was between both Americas, Europe, and Asia
+
+- Migrants held the interconnected world together
+
+- Globalization more than an economic process
+
+  + People benefited from sailing ships and military power
+
+  + People exploited for slavery
+
+*** The Global Crisis of the Seventeenth Century and the European State System
+
+- "General crisis of the 17th century": rebellions, revolutions, social crises, population declines, and sharp economic downturns
+
+- Crisis caused by Little Ice Age
+
+- China, Russia, Ottomans especially, thrown into crisis
+
+- Civil war in China and Russia pressure food supplies; rulers ignore issue to fund war
+
+- Climate + war kill many rural people through famine and starvation
+
+- Only the Mughals ruling India recognized threat to rural people: they stopped collecting taxes from those affected and provided tax relief
+
+- Nearly all European states not only had internal crises comparable to those of the Eurasian empires, but also engaged other European states in warfare
+
+- The Thirty Years' War (1618-48) embroiled nearly all European states in war, and the short-sightedness, greed, or fear of their rulers meant that all of Europe suffered
+
+  + not just from declining harvests brought on by the cold but from heightened taxes to pay for the wars
+
+- The stupidity and venality of European rulers recounted by historian Geoffrey Parker in his study of the seventeenth-century global crisis
+
+  + especially in Germany, where perhaps half of the population died of war- and climate-induced famine
+
+  + highlights the immense costs Europeans bore on their way to the 1648 Peace of Westphalia that extricated Europe from the 17th-century horrors of war, famine, and death
+
+- The 17th century crisis significantly changed the European state system
+
+- The Treaty of Westphalia defined what it meant to be the "sovereign" of a state and began the process of institutionalizing the multistate system--albeit one defined by "the rules of war"--that came to define Europe
+
+- Historical significance of wars among European states:
+
+  + Tying them in a single system, especially after the Peace of Westphalia
+
+  + Consolidation into increasingly fewer political units and to the development of a particular kind of national state as the most successful form of European state
+
+  + Affected internal evolution of European states, favoring some kinds but not others
+
+- European rulers could tap two sources of revenue:
+
+  1. Tax
+
+  2. Loans (bonds)
+
+- Taxes were met with resistance
+
+- Loans had to be repaid
+
+- European rulers have no money and resort to "state-building"
+
+**** State Building
+
+- European rulers would resort to force, if necessary, to gain access to resources needed to conduct war
+
+- Rulers preferred if their subjects would voluntarily render those resources to the state
+
+  + Made various claims to legitimacy, that is, the idea that subjects should willingly obey their ruler
+
+  + "Divine right of the kings"
+
+  + Example: Spanish Inquisition
+
+- After 17th-century crisis, the European Enlightenment of late 17th and 18th centuries challenged idea of "divine right" of monarchs to rule
+** "Understanding Prosperity and Poverty", Acemoglu and Robinson
+
+*** Historical Origins
+
+- Differences in living standards
+
+- Why are some nations prosperous while others fail and are poor?
+
+- A successful theory provides useful and empirically well-grounded explanation for a range of processes while also clarifying the main forces at work
+
+- The theory comprises of two levels:
+
+  1. Extractive and inclusive economic and political institutions
+
+  2. Why inclusive institutions emerged in some parts of the world and not others
+
+- Inclusive economic institutions:
+
+  + Enforce property rights
+
+  + Create a level playing field
+
+  + Encourage investments in new tech
+
+  + Skills more conducive to economic growth
+
+  + Support other inclusive institutions
+
+- Extractive economic institutions:
+
+  + Extract resources from the many by the few
+
+  + Fail to protect property rights or provide incentives for economic activity
+
+- Economic growth possible under extractive institution but not sustainable
+
+  1. Economic instability.
+     Innovation <=> creative destruction.
+     Elites resist creative destruction.
+
+  2. Political instability.
+     People will fight each other for power.
+
+- Extractive institutions end up in vicious cycles, tending persist
+
+  + This isn't always the case and some nations have transitioned to inclusive institutions
+
+- Major economic change <== major institutional change is the result of the interaction between existing institutions and critical junctures
+
+- Examples of critical junctures (disruptions of political/economic balance in societies):
+
+  + Black Death
+
+  + Opening of Atlantic trade routes
+
+  + Industrial Revolution
+
+- Institutional drift is caused by conflict over income and power
+
+- The turning point for Peru was the way in which it was colonized and how it contrasted with the colonization of North America (three factors):
+
+  1. Institutional differences within the Americas:
+
+     - North America followed a different institutional trajectory because it was sparsely settled before colonization and attracted European settlers who then successfully rose up against the elite whom entities such as the Virginia Company and the English Crown had tried to create
+
+     - Spanish conquistadors found a centralized, extractive state in Peru they could take over and a large population they could put to work in mines and plantations
+
+  2. Inca Empire could have resisted European colonialism, as Japan did, and institutionally modernize in response to threats
+
+  3. It is not even historically or geographically or culturally predetermined that Europeans should have been the ones colonizing the world.
+     It could have been the Chinese or even the Incas.
+
+- PAGE 433!
+
+- Opening Atlantic trade made Britain shift to inclusive institutions
+
+*** The Irresistible Charm of Authoritarian Growth
+
+- Modernization theory maintains that all societies, as they grow, are headed toward a more modern, developed, and civilized existence, and in particular toward democracy
+
+*** You Can't Engineer Prosperity
+*** The Failure of Foreign Aid
+*** Empowerment
+
+** "The Great Transformation", Karl Polanyi
+
+*** Evolution of the Market Pattern
+
+- Barter, truck, and exchange
+
+- Market: a meeting place for the purpose of barter or buying and selling
+
+  + Goods
+
+    - Necessities
+
+    - Luxuries
+
+    - Resources
+
+    - Services
+
+    - Land
+
+  + Rules
+
+  + Money
+
+- Prices: supply + demand
+
+- Symmetry: sociological arrangement, which gives rise to no separate institutions, but merely patterns out existing ones
+
+- Centricity: frequently creating distinctive institutions, implies no motive that would single out the resulting institution for a single specific function
+
+- Autarchy: accessory trait of an existing closed group
+
+- Instead of economy being embedded in social relations, social relations are embedded in the economic system.
+
+- The step which makes isolated markets into a market economy, regulated markets into a self-regulating market, is indeed crucial.
+
+*** The Self-Regulating Market and the Fictitious Commodities: Labor, Land, and Money
+
+- The economic system was absorbed in the social system
+
+- A market economy is an economic system controlled, regulated, and directed by market prices; order in the production and distribution of goods is entrusted to this self-regulating mechanism
+
+  + An economy of this kind derives from the expectation that human beings behave in such a way as to achieve maximum money gains
+
+* Week 4: Colonialism, Racism, Sexism
+
+** Background
+
+Polanyi's explanation for the origin of the market primarily used England as a test case.
+But historians today generally agree that the colonial conquests that preceded the transformation of the late 18th and 19th centuries are not separate from the colonial conquests of European empires in previous periods (and which continued throughout those centuries).
+
+** Readings
+
+*** Tuesday, September 14
+
+[[pdf:~/School/HIST0862/week4/The_Origins_of_the_Modern_World_A_Global_and_Envir..._----_(Pg_103--113).pdf::1++0.00][Marks, The Origins of the Modern World, 86-96.]]
+
+[[pdf:~/School/HIST0862/week4/Micklethwait and Wooldridge The Company 2003 p17-36.pdf::1++0.00][John Micklethwait and Adrian Wooldridge, The Company: A Short History of a Revolutionary Idea (New York: Modern Library, 2003), 17-36.]]
+
+*** Thursday, September 16
+
+Library/Research Tutorial
+
+* Week 5: Capitalism and Industry
+
+** Background
+
+We continue the discussion begun in previous weeks, but shifting now to more specific case studies.
+The first concerns what is broadly termed "industrialization," the second the link between a particular commodity crucial for that process and the imperial conquests we began discussing in week 2.
+
+** Readings
+
+*** Tuesday, September 21 Industrial Revolutions
+
+[[pdf:~/School/HIST0862/week5/The_Origins_of_the_Modern_World_A_Global_and_Envir..._----_(Pg_114--142).pdf::1++0.00][Marks, The Origins of the Modern World, 97-125.]]
+
+Laura L. Frader, The Industrial Revolution: A History in Documents (Oxford: Oxford University Press, 2006), [[pdf:~/School/HIST0862/week5/Frader Laura The Industrial Revolution A History in Documents 2006 p50-52.pdf::1++0.00][50-52]], [[pdf:~/School/HIST0862/week5/Frader Laura The Industrial Revolution A History in Documents 2006 p104-104.pdf::1++0.00][104-105]]
+
+*** Thursday, September 23 Imperialism and Global Capitalism
+
+[[pdf:~/School/HIST0862/week5/sven-beckert.pdf::1++0.00][Sven Beckert, Empire of Cotton, introduction and chapter 4.]]
+
+** "The Origins of the Modern World", Marks (pp. 97-125)
+
+*** Empires, States, and the New World, 1500--1775
+
+**** The Global Crisis of the Seventeenth Century and the European State System
+
+***** Mercantilism
+
+- Increased European competition for silver and gold
+
+- Wars were very costly, so silver and gold must be preserved to pay for them
+
+- This required economic policies to prevent silver and gold from flowing out of states
+
+- Mercantilist policies lead to the establishment of industries in European states, but industrialization itself was not the object: keeping gold and silver from flowing out of the state and enriching others was
+
+- "the more silver, the stronger the state"
+
+***** The Seven Years' War, 1756--63
+
+- England and France, strongest EU states, fight in Europe, Americas, and Asia
+
+- From 1689 to 1815, 5 wars between UK and FR, only one that UK did not initiate
+
+- Most important war was Seven Years' War of 1756-63: global engagement
+
+*** The Industrial Revolution and Its Consequences, 1750--1850
+
+**** Cotton Textiles
+
+***** India
+***** The New World as a Peculiar Periphery
+
+**** New Sources of Energy and Power
+
+***** China
+***** Markets
+***** Exhausting the Earth
+***** England, Redux
+
+**** Coal, Iron, and Steam
+
+***** Recap: Without Colonies, Coal, or State Support
+***** Science and Technology
+** "Empire of Cotton", Beckert
+
+*** Introduction
+
+- Where does the modern world originate?
+
+- Cotton is ubiquitous
+
+*** Chapter 4 Capturing Labor, Conquering Land
+
+* Week 6: Background and Readings
+
+** Background
+
+This week we look at globalization and industrialization as experienced by people who are caught up in the process.
+On Tuesday, we'll look at an account written by a Russian peasant who became a factory worker and eventually a revolutionary, and consider what was involved in the move from rural to urban life (at least for people like him).
+We'll then look at migration more broadly, to think about why people moved in this period and how their movement shaped the twentieth century world.
+
+** Readings
+
+*** Tuesday, September 28 Capitalism and the Factory System
+
+[[pdf:~/School/HIST0862/week6/The_Origins_of_the_Modern_World_A_Global_and_Envir..._----_(Pg_152--165).pdf::1++0.00][Marks, The Origins of the Modern World, 135-148.]]
+
+[[pdf:~/School/HIST0862/week6/Kanatchikov.pdf::1++0.00][Semyon Kanatchikov, “Account of a Peasant-Worker Activist”]]
+
+*** Thursday, September 30 Global Migrations
+
+[Optional] Dirk Hoerder, “Migrations and Belongings,” in Emily S. Rosenberg, ed., A World Connecting, 1870-1945 (Cambridge, MA: The Belknap Press of Harvard University Press, 2012), 435-443.
+
+[[pdf:~/School/HIST0862/week6/MichaelHFisher_2013_CHAPTER4NationalAndIn_MigrationAWorldHistor.pdf::1++0.00][Michael H. Fisher, Migration: A World History (Oxford: Oxford University Press, 2013), 75-102.]]
+
+* Week 7: Capitalism's Global Dynamics
+
+** Background
+
+We close out the first half of the semester by looking at the relationship between the second wave of European imperialism and the hunger for commodities fueled by the spread of industry.
+Then we'll look at two of the more influential responses to the exploitation that came with capitalism and colonialism.
+We will ask how Marx, and, more than a half century later, Lenin, understood the relationship between domestic and colonial exploitation, as well as what blind spots we can see in their analyses.
+
+** Readings
+
+*** Tuesday, October 5 The Scramble for Empire
+
+[[pdf:~/School/HIST0862/week7/The_Origins_of_the_Modern_World_A_Global_and_Envir..._----_(Pg_165--177).pdf::1++0.00][Marks, The Origins of the Modern World, 148-160.]]
+
+Adam Hochschild, King Leopold's Ghost (New York: Houghton Mifflin Company, 1998), 158-181.
+
+*** Thursday, October 7 The Internationalization of Capital and Labor
+
+Karl Marx and Friedrich Engels, “Manifesto of the Communist Party,” in J. Timmons Roberts and Amy Bellone, eds., The Globalization and Development Reader (Oxford: Blackwell, 2007), 25-32.
+
+V.I. Lenin, “Imperialism, the Highest Stage of Capitalism,” in Alice L. Conklin and Ian C Christopher Fletcher, eds., European Imperialism, 1830-1930: Climax and Contradiction (New York: Houghton Mifflin Co., 1999), 36-43.
+
+* Week 8: Food Systems
+
+** Background
+
+After the mid-term, we will turn our attention to food systems by reading a chapter from the anthropologist Sidney Mintz’s classic work on sugar production and consumption.
+What does this account about the way we produce, trade, and consume a now ubiquitous commodity tell us about the nature of our food supply today?
+What kind of questions does it raise for us as we think about where our food comes from?
+
+** Readings
+
+*** Tuesday, October 12 Midterm Exam
+
+*** Thursday, October 14
+
+Sidney Mintz, Sweetness and Power: The Place of Sugar in Modern History (ch. 4)
+
+[[pdf:~/School/HIST0862/week8/equiano.pdf::1++0.00][Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, Written by Himself (1794), ed. Robert J. Allison, 2nd ed. (New York: Bedford/St. Martins, 2007), 104-114.]]
+
+* Week 9: Upheaval in the Global Order
+
+** Background
+
+In the second half of the course we turn firmly to the twentieth century.
+First, we consider how the Great Depression and the response to it affected global trade, power-relations, and empire.
+Then we turn to the wave of decolonization that followed the second world war and look at the models for development pursued by post-colonial leaders and the emergence of aid models amongst (former) colonial powers.
+Among the questions to consider are: to what extent did the great depression inform how economists, political leaders, and activists approached problems of development?
+How did the priorities and visions of development of post-colonial among and between the different groups we consider?
+
+** Readings
+
+*** Tuesday, October 19 Depression and Warfare
+
+Kieran Klaus Patel, The New Deal: A Global History Introduction  [Online]
+
+*** Thursday, October 21 Decolonization and the Origins of International Development
+
+Corinna Unger, International Development: A Postwar History (chapter 4)
+
+“Declaration on the Establishment of a New International Economic Order”
+
+http://www.un-documents.net/s6r3201.htm
+
+* Week 10: Environment
+
+** Background
+
+The history of globalization and development is inseparable from the history of climate change, as well as the responses to it from the second half of the 20th century onwards.
+This week we first look at how scholars study environmental history, and how that history bridges the human and non-human.
+We then consider how the international connections fostered by globalization have also made possible a global movement to mitigate the effects of climate change.
+Why did this movement emerge when it did?
+How has it changed over time?
+What kind of problems and contradictions have campaigns for climate change faced since the 1970s?
+
+** Readings
+
+*** Tuesday, October 26 Environmental History
+
+Bathsheba Demuth, "The walrus and the bureaucrat: Energy, ecology, and making the state in the Russian and American Arctic, 1870–1950." The American Historical Review 124, no. 2 (2019): 483-510. [Online]
+
+*** Thursday, October 28 Development, Globalization, and the Environment
+
+Marks, The Origins of the Modern World, 200-206.
+
+J.R. McNeill, “The Environment, Environmentalism, and International Society in the Long 1970s,” in Niall Ferguson et al., eds., The Shock of the Global: The 1970s in Perspective (Cambridge, MA: Belknap Press of Harvard University Press, 2010), 263-278.
+
+* Week 11: Neoliberalism and Austerity
+
+** Background
+
+We often hear that the last few decades have been characterized by “neoliberalism” in domestic governance of the economy as well as in international development.
+This week we will consider this term, its origins, and its applications.
+Among the questions we will ask are:
+why did approaches to international development, domestic regulation, and social welfare change dramatically starting in the 1970s?
+What are the consequences of these changes?
+To what extent can we group various phenomena of our political and economic life under one rubric?
+We will then turn to the subject of austerity as a way of dealing with economic crises.
+Why did austerity emerge as a response to economic crises in the 2010s?
+
+** Readings
+
+*** Tuesday, November 2 Defining Neoliberalism
+
+Marks, The Origins of the Modern World, 188-200.
+
+John Williamson, “What Washington Means by Policy Reform” (1990) online at: https://www.piie.com/commentary/speeches-papers/what-washington-means-policy-reform
+
+*** Thursday, November 4 Austerity in Action
+
+Mark Blyth, Austerity: The History of a Dangerous Idea
+
+* Week 12: Debates over Globalization
+
+** Background
+
+As we approach the end of the course, we consider some of the debates around (recent) globalization. First, we take a look back at the late twentieth century to consider whether the socialist project of world-building was also a project of globalization, and ask whether it should be considered an alternative to capitalist globalization or part of a larger process. Then, we consider some recent research on who benefits from globalization and the relationship between globalization and inequality.
+
+** Readings
+
+*** Tuesday, November 9 Socialist Globalization?
+
+James Mark, Artemy Kalinovsky, and Steffi Marung, “Introduction,” in Mark et al., eds, Alternative Globalizations: Eastern European and the Post-Colonial World [Online]
+
+*** Thursday, November 11 Globalization: Who is it good for?
+
+Branco Milanovic, Global Inequality: A New Approach for the Age of Globalization (Cambridge, MA: Harvard University Press, 2016), intro and ch.3.
+
+David Wallace-Wells, "The Case for Climate Reparations," NY Magazine November 2021 https://nymag.com/intelligencer/2021/11/climate-change-reparations.html
+
+** Milanovic Notes
+
+*** Introduction
+
+- 3 reasons to focus on global inequality:
+
+  1. Out of curiosity (and for practical purposes, e.g., help evaluating what to buy or sell and where, making decisions where to migrate, etc.)
+
+  2. We now have enough data
+
+  3. Allows us to see how the world has changed, fundamentally (e.g., economic and political changes)
+
+- "Global inequality, that is, income inequality among the citizens of the world, can be formally considered as the sum of all national inequalities plus the sum of all gaps in mean incomes among countries" (p. 3)
+
+  1. First component deals with inequality in incomes between rich and poor Americans, rich and poor Mexicans, etc.
+
+  2. Second component deals with income gaps between the United States and Mexico, Spain, and Morocco, etc. (all countries)
+
+- Two forces that drive inequality down (p. 4):
+
+  1) "malign" forces (wars, natural catastrophes, epidemics)
+
+  2) "benign" forces (more widely accessible education, increased social transfers, progressive taxation)
+
+- "Wars can lead to declines in inequality but also unfortunately, and more importantly, to declines in mean incomes" (p. 5)
+
+- Chapter 3 focuses on differences in mean incomes among countries (p. 5)
+
+- For the first time since the Industrial Revolution, global inequality is not being driven by rising gaps among countries (p. 5)
+
+*** Chapter 3: Inequality among Countries
+
+/From Karl Marx to Frantz Fanon, and Then Back to Marx?/
+
+#+begin_quote
+Your Honors should know by experience that trade in Asia must be driven and maintained under the protection of Your Honors' own weapons, and that the weapons must be paid for by the profits from the trade, so that we cannot carry on trade without war nor war without trade.
+
+---Jan Pieterszoon Coen, Dutch East India Company (1614)
+#+end_quote
+
+**** Changing Level and Composition of Global Inequality
+
+- Global inequality is decreasing while domestic inequality is increasing
+
+- Global inequality
+  = inequality among nations + inequality within nations
+  = (sum of) differences in mean incomes /among/ nations + (sum of) inequalities of personal incomes /within/ nations
+  = "location" component + "class" component
+
+
+**** The Citizenship Premium
+**** Migration and Walls
+
+** Wallace-Wells Notes
+
+*Climate Reparations* A trillion tons of carbon hangs in the air, put there by the world's rich an existential threat to its poor.
+Can we remove it?
+
+*** What Is Owed
+
+- Nearly half of greenhouse-gas emissions are produced by the world's richest 10 percent
+
+*** 'You Cannot Adapt to Extinction'
+
+#+begin_quote
+At some point, observing the crisis from the global North, you have to ask yourself: /Is a person in the global South a person to me?/
+#+end_quote
+
+*** The Radical Case for Removal
+
+#+begin_quote
+I think that most Americans want to be people that clean things up.
+They don't want to have their legacy be one of trash.
+#+end_quote
+
+*** The Geopolitics of Drowning
+
+#+begin_quote
+The current generation of leaders is totally incapable of rising to the occasion.
+#+end_quote
+
+*** Engineering a Century
+
+#+begin_quote
+At that point, whether or not we restore the climate is entirely a financial and moral decision.
+Period.
+Nothing else you need to know.
+#+end_quote
+
+* Week 13: Women in the Global Economy
+
+** Background
+
+In recent weeks we have noted how globalization and development often affects men and women differently.
+This week, we will consider (some) of the ways that women have been affected by the most recent transformations in the global economy and approaches to development.
+One of the questions we will ask is why did international organizations and development experts turn to entrepreneurship as a way to support women, starting in the 1980s?
+What effect has this had on women who were encouraged to think of themselves as entrepreneurs?
+
+** Readings
+
+*** Tuesday, November 16
+
+Joanne Meyerowitz, A War on Global Poverty: The Lost Promise of Redistribution and the Rise of Credit (Yale University Press, 2020), chapter 5.
+
+*** Thursday, November 18 [No Class]
+
+* Week 15: Resistance and Summing Up
+
+** Background
+
+In the final week, we will examine some of the sources of resistance to globalization and sum up what we've learned over the course of the term.
+
+** Readings
+
+*** Tuesday, November 30 The Populist Backlash
+
+*** Thursday, December 2 Summing Up

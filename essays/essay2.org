@@ -1,0 +1,102 @@
+#+TITLE: Why We Still Struggle With Environmental Issues
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Essay2_NguyenEric
+
+The history of climate change and environmentalism is essential to the history of development and globalization.
+Historian John McNeill argues that environmentalism became globalized in the 1970s in response to many postwar trends including technological, cultural, political, but especially economic and ecological trends  (p. 264).
+Indeed, the extreme economic growth fueled by fierce industrial competition between capitalist and communist economies, massive global population growth, urbanization and technological advances consequently had extreme implications on ecological trends globally (McNeill, p. 266).
+Specifically, such economic growth would have great ecological demands and over time this would make significant contributions to global-scale environmental issues.
+Fundamentally, environmentalism emerged as a complaint against the practices of economists and engineers who sought to improve life on earth but whose actions would inadvertently simultaneously make life on earth worse (McNeill, p. 266).
+This general belief of environmentalism would become extremely popular throughout the world and persist as industries would continue their ecologically harmful practices leading to great efforts in environmental movements.
+Despite the efforts from widespread environmental movements the same global-scale environmental problems still persist many decades later---why is this the case?
+Are environmental movements ineffective in addressing environmental problems?
+Are the problems too great for environmentalism efforts to address?
+Arguably we still struggle with environmental issues today because of global problems including variation in environmentalism, continued ecologically harmful economic practices, and accumulation of environmental issues.
+
+First of all, it is important to note that the strength of environmentalism is not consistent as environmental concerns gain and lose attention as other global concerns are prioritized more depending on political, ecological, economical and other conditions throughout the world.
+Because the strength of environmentalism is not consistent it makes it harder to address environmental problems on a global-scale as global efforts become uncoordinated and difficult to maintain since efforts are constantly being redirected to new priorities as different concerns need to be addressed.
+As previously mentioned, one of such priority conflicts is the conflict between the goals of environmentalists and economists and engineers where environmentalists seek to preserve the environment whereas economists and engineers seek to increase economic growth and improve quality of life at the cost of the environment.
+For example, a global concern of population growth around the 1960s inspired a great focus on food and agriculture production known as the Green Revolution from which came new agricultural technology that would very well address the population growth however would cause great ecological disturbances (McNeill, p. 268).
+In another example, certain global events such as war and famine might create a sudden need for people to prioritize security instead of environmental issues, "When security is in peril and the economy shrinking, environmentalism fades into the background" (McNeill, p. 278).
+It is apparent that environmental concerns are not the only concerns we have to deal with globally, so our ability to address environmental concerns is severely constrained as we have to deal with other global concerns---it is a matter of how we prioritize which concerns to direct our efforts towards.
+
+Arguably, the biggest culprit in the aggravation of global environmental problems is the constant prioritization for economic growth and development by postwar leaders around the world, particularly because of productionism and consumerism ideologies that spread throughout many countries.
+Consumerism emerged primarily through the availability of cheap energy and the economic consequences of consumerism would eventually lead to constant global dependencies for energy (Marks, p. 200).
+For example, consumerism of cars created high demands on both natural gas and oil and car production leading to ecological disturbances, "Making cars also requires huge amounts of energy, creates nearly thirty tons of waste for every ton of car made, and uses charcoal burned from the Amazon rain forest, contributing directly to global warming and deforestation" (Marks, p. 201).
+In the case of third world countries, economic growth was needed to become economically independent and agricultural improvements were needed to address the massive postwar population boom---these goals manifested the idea of postwar development in third world countries.
+Furthermore, death rates would dramatically decrease as rural societies would gain access to modern medicine which caused even more population concerns.
+Ultimately, this would lead to many third world countries such as South Korea, Singapore, and Mexico to take great lengths in pursuit of industrial policies, establishing and maintaining significant industrial sectors (Marks, p. 203).
+Of course, as more and more countries industrialized, it would only further contribute to the environmental issues due to the pollution and other ecological damage caused by industrialization.
+
+One of the most difficult aspects about solving environmental issues is that environmental issues grow over time as they are left neglected to the point that the issues become practically irreversible.
+In other words, ecologically harmful practices such as industrialization and consumerism deteriorate the environment through permanent disturbances (e.g., use of finite natural resources, release of greenhouse gases, fracking, deforestation, etc.) such that the environment's original state is irrecoverable.
+The Green Revolution was a significant contributor in permanent ecological disturbances as it promoted practices such as using environmentally harmful pesticides and intense irrigation and widespread construction of dams.
+Specifically, the pesticides disrupted aquatic ecosystems by depriving aquatic life of oxygen creating so-called "dead zones" (McNeill, p. 269) that were uninhabitable by aquatic life which could grow extremely large and remain for an unspecified period of time.
+Similarly the widespread construction of dams would also disrupt aquatic ecosystems by displacing aquatic life, affecting natural sedimentation and erosion processes, and so on, in some cases even increasing water salinity and completely disabling food production (McNeill, p. 269).
+Another significant contributor in permanent ecological disturbances is the rise of suburbia and shantytowns as they required vast amounts of land to operate which not only would disrupt existing ecosystems of wildlife and cause deforestation, but additionally they would promote the use of motor vehicles for transportation inadvertently promoting all of the environmental harms that comes with the automobile production such as air pollution (McNeill, pp. 270--271).
+As the environment continually degrades through factors such as increased agricultural production and proliferation of suburbia and as people continue to enjoy such luxuries as improved agriculture and suburban life, it becomes harder to address environmental issues when there is so much resistance against the environment.
+
+While there are certainly more factors affecting our ability to deal with environmental issues, the inconsistency in environmentalism efforts, the desire for economic growth, and the accumulation of environmental damage are arguably among the most important factors.
+The inconsistency of environmentalism efforts, due to competing priorities, creates difficulties in tackling environmental issues through globally coordinated efforts.
+The constant desire for economic growth leads to ecologically harmful practices including consumerism and industrialization which would rapidly deteriorate the environment.
+Finally, as the damages against the environment would build up, it eventually becomes practically impossible to repair the environment.
+In conclusion, we still deal with environmental issues today because of conflicting priorities with environmentalism and other global issues, a constant emphasis on economic growth, and an extensive history of environmental issues.
+
+\newpage
+
+\noindent *Works cited* \\
+
+\setstretch{1.0}
+\noindent Marks, The Origins of the Modern World, 200-206. \\
+
+\noindent J.R. McNeill, “The Environment, Environmentalism, and International Society in the Long 1970s,” in Niall Ferguson et al., eds., The Shock of the Global: The 1970s in Perspective (Cambridge, MA: Belknap Press of Harvard University Press, 2010), 263-278.
+
+* Essay prompt :noexport:
+
+The historian John McNeill argues that environmentalism became a global movement in the 1970s.
+How do you explain our continued struggles to solve environmental problems today?
+
+* Week 10: Environment :noexport:
+
+** Background
+
+The history of globalization and development is inseparable from the history of climate change, as well as the responses to it from the second half of the 20th century onwards.
+This week we first look at how scholars study environmental history, and how that history bridges the human and non-human.
+We then consider how the international connections fostered by globalization have also made possible a global movement to mitigate the effects of climate change.
+Why did this movement emerge when it did?
+How has it changed over time?
+What kind of problems and contradictions have campaigns for climate change faced since the 1970s?
+
+** Readings
+
+*** Tuesday, October 26 Environmental History
+
+Bathsheba Demuth, "The walrus and the bureaucrat: Energy, ecology, and making the state in the Russian and American Arctic, 1870–1950." The American Historical Review 124, no. 2 (2019): 483-510. [Online]
+
+*** Thursday, October 28 Development, Globalization, and the Environment
+
+Marks, The Origins of the Modern World, 200-206.
+
+J.R. McNeill, “The Environment, Environmentalism, and International Society in the Long 1970s,” in Niall Ferguson et al., eds., The Shock of the Global: The 1970s in Perspective (Cambridge, MA: Belknap Press of Harvard University Press, 2010), 263-278.
+
+* Demuth Notes :noexport:
+
+- "As the thin line of sea between Russia and the United States became a hard line separating economic and ideological projects, Walrus' were ensnared in capitalist and communist attempts to make their visions of the future" (p. 483)
+
+* McNeill Notes :noexport:
+
+- Modern environmentalism trends in the 1970s (p. 263)
+
+  + Global-scale environmentalism: global-scale environmental issues
+
+  + Globalized environmentalism: environmental movements around the globe
+
+- McNeill enumerates what he believes to be major factors in globalized environmentalism: technology, culture, economics, ecological change, and politics (p. 264).
+
+* Marks Notes :noexport:

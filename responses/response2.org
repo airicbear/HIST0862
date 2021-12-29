@@ -1,0 +1,37 @@
+#+TITLE: Why England Industrialized First
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Response2_NguyenEric
+
+Before the industrialization of manufacturing processes, the world's human population was growing faster than the existing economies could keep up with and as a result, the ecological constraints of the biological old regime were becoming increasingly more apparent.
+Agricultural development and population growth pushed the environmental limitations as the land became increasingly contested for different necessities such as food, clothing, shelter, and fuel.
+Because of this, it became necessary to keep the population under control and make efficient use of land while allocating enough land to sufficiently provide each necessity.
+Some countries with highly developed economies such as China and India were able to satisfy these conditions within the constraints of the biological old regime, yet neither of these countries were able to make an industrial breakthrough before England did, for several reasons.
+England became the first country where manufacturing processes became industrialized because they took advantage of forced labor from their colonies and because of the invention of the steam engine.
+
+The high productivity of agriculture and highly developed markets in China and India gave them a comparative advantage over England, however the ecological constraints imposed by the biological old regime in conjunction with the freedoms of the laborers restricted the growth of cotton textile industries.
+In particular, the agrarian society in China where peasants decided to produce their own textiles limited the raw cotton supply for textile-producing centers and consequently reduced the amount of available land for the production of commodities and "constrained China's ability to continue developing its textile industry in its most highly developed core regions" (Marks, p. 116).
+In contrast, the British use of slavery from their colonies provided them with more land for cotton production and allowed them to direct raw cotton production towards their textile-producing centers and stimulate and sustain their cotton textile industry while increasing the demand for their textile from slaves (Marks, p. 119).
+With the introduction of the coal-fueled steam engine, the cotton textile industry could make use of their large cotton supply and also meet the growing demand for cotton textiles (Marks, p. 122).
+Indeed, they became able to dominate the Indians in the cotton textile industry, "England's Lancashire textile mills began applying steam power to the production process, greatly increasing output, lowering costs, and outcompeting Indian cottons in the world market" (Marks, p. 119).
+In conclusion, England's access to land and their control over production on that land, along with the innovations from the steam engine, allowed them to break through the constraints of the biological old regime and make them the first to industrialize their manufacturing processes.
+
+* Prompts :noexport:
+
+- What explains the transformation of manufacturing processes in the late 18th and early 19th centuries?
+
+- Why did England become the first country where manufacturing processes became industrialized?
+  Why didn't this happen in China or India?
+
+- What is the relative importance of technology, culture, and (imperial) power in the history of industrialization?
+
+* Important pages :noexport:
+
+** Marks, Page 119
+
+- "Agrarian fate"

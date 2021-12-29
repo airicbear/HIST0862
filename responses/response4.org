@@ -1,0 +1,31 @@
+#+TITLE: Industrialization in Post-Colonial Governments
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Response4_NguyenEric
+
+Decolonization was starting to take place on a global scale as colonies became inspired to become independent as they felt a sense of betrayal and found a clear vulnerability of the colonial powers after World War I.
+After World War II the colonial powers were exhausted and with the common interest of the United States and Soviet Union for global decolonization, colonies finally started gaining the independence they wanted (Marks, p. 190).
+With their newfound independence, the former colonies, having been suppressed from industrializing by their former masters, were now motivated to industrialize to improve the welfare of their people.
+Additionally, most of these former colonies had bitter experiences with the capitalist West which guided them towards state-driven industrialization (Marks, p. 193).
+Many post-colonial governments adopted development policies aimed at industrialization because they gained power after the war and because of their disagreements with free-market capitalism (leading to state-planned economies).
+
+Despite the agreement on decolonization, the United States and Soviet Union had vastly different social and economic systems, where the United States had free-market capitalism and the Soviet Union had state-planned socialism.
+Their agreements on decolonization were under the premise of spreading their respective social and economic systems across the globe.
+The consequence of post-colonial government policies towards industrialization is that it would threaten the free market vision of the United States and thus create tension between the United States and the Soviet Union and eventually, start the Cold War.
+
+* Prompts :noexport:
+
+- In what ways did the great depression affect the way states managed economic life?
+
+- Why did so many post-colonial governments adopt development policies aimed at industrialization?
+  What were the consequences?
+
+- What kind of problems and contradictions have campaigns for climate change faced since the 1970s?
+
+- Why did approaches to international development, domestic regulation of the economy, and social welfare change dramatically starting in the 1970s?
+What are the consequences of these changes?

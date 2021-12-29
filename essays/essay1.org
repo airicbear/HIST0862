@@ -1,0 +1,366 @@
+#+TITLE: Impact of Colonialism on Developed Economies
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Essay1_NguyenEric
+
+What is a "developed" economy and in what ways did colonialism contribute to the rise of such economies?
+Throughout history, economies have developed over time through institutional development and such institutional development has been a result of the combination of both institutional drift and critical junctures, both of which are composed of a wide range of forces including pandemics, trade, war, and colonialism.
+While many of these forces have played an important role in the emergence of developed economies, colonialism is a particularly interesting factor due its impact on not only economic development, but also globalization.
+For nations to become prosperous and have developed economies, Acemoglu and Robinson theorize that such nations should transform their extractive institutions to inclusive ones, particularly by avoiding bad policy advice as opposed to forming simple solutions (pp. 436--437).
+Colonialism had made great contributions to institutional transformation in both colonies and their respective colonizers, and thus contributed to the rise of developed economies in several ways, including (1) creating new trade routes (2) establishment and acquisition of means of production and (3) transforming political institutions.
+
+First of all, colonialism had opened up new trade routes, that is, as nations colonized more parts of the world, they gained access to new trading partners and consequently gained access to new customers, i.e., more demand for the nation's resources.
+With an increase in demand, we can intuitively reason that there would be an increase in supply as well to catch up with the demand, thus encouraging competition and innovation, in other words, the competing nations would slowly progress towards the development of more inclusive economic institutions.
+Take for example, the Spanish empire's colonization of the Filipino city of Manila in 1571, where they subsequently delivered loads of silver through ship from the New World, particularly from the silver-abundant town of Potosí (Marks, p. 83).
+From the colonization of Manila, the Spanish had opened up a new trade route with China who had an immense demand for silver which the Spanish were more than equipped to satisfy.
+Indeed to have the silver supply in the first place, the Spanish empire had to have colonized the New World, including Potosí, beforehand as well.
+It is apparent that without Spanish colonization of both the New World and of Manila, as well as their extensive trade of silver with China, the Spanish economy would not have been as prosperous as it was.
+While new trade routes created by colonialism had created new relationships of supply and demand and enabled nations to greatly develop their economy, they also allowed for triangles of trade to form, particularly across the Atlantic Ocean.
+
+Colonialism provided more land for plantations and other commodity producing zones to be built, commodities from which finished goods would be produced and sold and traded, but consequently gave rise to an increased demand for more labor.
+While the initial colonized people could be used for labor, they were unwilling and few in numbers; the rate at which colonies developed could only be managed through the continuous importation of African slave labor (Marks, p. 86).
+Thus, so-called "triangles of trade" formed, in which the demand for finished goods caused a demand for commodities, and the demand for commodities created demand for labor which could be satisfied through the sale of finished goods.
+One of these triangles was the triangle between England, Africa, and the Americas, where the commodities in the Americas were desirable for the production of finished goods in England and so slave labor was needed from Africa to obtain the commodities from the Americas.
+The other triangle of trade was between the Caribbean, England's North American colonies, and Africa which acts nearly the same as the first triangle in that the Caribbean region was abundant in molasses which was used in the production of rum in the North American colonies, and similarly the slave labor from Africa was needed to retrieve the molasses from the Caribbean region.
+These triangles of trade became a significant factor in the economic prosperity of European and North American colonists (Marks, p. 88).
+However, as the colonists would greatly benefit economically from the triangles of trade, this prosperity would come at the cost of the colonized people.
+
+Indeed, through the process of colonizing native people, the existing political and governmental institutions would change as well, thereby affecting the economic circumstances in the colonized regions.
+As regions were colonized, the political influence of the native people, if they still existed, would be greatly diminished and replaced by the political influence of the colonists, as the colonists and natives would exchange languages, religion, tools, and foodstuffs, among other things (Marks, p. 89).
+Of course, the relationship between the natives and the colonizers depended on many variables; one variable of particular importance being the state of the existing political institution of the colonized region.
+Acemoglu and Robinson emphasize how geography and culture do not play much of a role in the emergence of developed economies, but instead institutions determine whether or not an economy will be prosperous or in poverty (p. 432).
+The institutional differences in the Americas shaped how its subregions were colonized, specifically institutional differences between North America and Peru where North America had been sparsely settled before colonization, attracting European settlers who rose up against the elites among them, whereas Peru was an extractive, centralized state that appealed to the Spanish conquistadors as an abundant and readily available source of labor (Acemoglu and Robinson, p. 433).
+Essentially, from this example, the preexisting institutional conditions in North America were conducive for inclusive economic and political institutions to develop, whereas the preexisting institutional conditions in Peru favored the development of extractive economic and political institutions.
+It is this distinction between inclusive and extractive institutions that separates the developed economies from the undeveloped ones; in this case, North America had become developed because of its inclusive institution and Peru could not match North America's growth due to its extractive institution.
+
+While Acemoglu and Robinson make the claim that extractive institutions cannot facilitate and sustain growth, and hence cannot form developed economies, one may observe that China is able to sustain growth while operating under an authoritarian and extractive political institution, contradicting and challenging Acemoglu's and Robinson's arguments (p. 441).
+Indeed, the authors address these concerns particularly noting that China, while having an extractive political institution, has a relatively inclusive economic institution (for an authoritarian state) which enables growth in China, for example, many private companies established in China have found themselves successful and profitable (Acemoglu and Robinson, p. 438).
+However, because of the pervasiveness of the extractive political institution in China, growth is severely hindered, particularly as its economic institution is constrained to the boundaries defined by its extractive political institution.
+Take for example the Chinese entrepreneur, Dai Guofang, who saw great economic potential in China in building privately-owned steel factories that would produce steel much more efficiently than the state-owned steel factories would; but by the order of the Chinese Communist Party, his project was stopped and he was arrested based on unclear, arbitrary reasons, although the actual reason was clear (Acemoglu and Robinson, p. 439).
+Then it appears that there is a relationship between political and economic institutions where, in order to facilitate sustained growth, both should be inclusive institutions, as having one extractive institution would limit the other institution.
+
+In the transformation of existing political institutions in colonized regions, the construction of plantations, and opening of trade routes, colonialism played an important role in the emergence of developed economies.
+While colonialism was certainly not the only actor in the emergence of developed economies, it had major implications on the other factors, such as trade, institutions, and even spread of diseases.
+In conclusion, colonialism was just one component among many in the emergence of developed economies, but a vital component nonetheless.
+
+* Week 3 :noexport:
+
+Scholars, policymakers, and practitioners who work on development are constantly debating why some places become “developed” while others do not.
+
+One of the theories advanced in recent decades is that what matters are “institutions” that create the groundwork for economic growth.
+
+We will look at one of the more influential texts in this literature, by the economists Acemoglu and Robinson, and try to understand where the authors are coming from.
+
+Then we'll try to evaluate their reading of history by using what we learned in previous weeks, as well as considering a different explanation (from Karl Polanyi) initially advanced in the 1940s which has gained renewed attention in recent years.
+
+* Essay prompt :noexport:
+
+Based on your reading thus far,
+
+What was the role of colonialism in the emergence of what is usually referred to as “developed” economies?
+
+(Hint: you could use this essay to compares Acemoglu and Robinson with Polanyi, or either of the two with Marks).
+
+* "The Origins of the Modern World", Marks :noexport:
+
+** Silver
+
+- The Great Plundering
+
+- Thousands of tons of silver came out of Potosí
+
+- Why silver and not gold?
+
+** The Spanish Empire and Its Collapse
+
+- Spain's rulers try to take over Europe
+
+- Spain had many wars with France and the Dutch
+
+- Wars too costly, not even the silver was enough
+
+- Spanish defeat leads to competitive system of sovereign nation-states
+
+** China's Demand for Silver
+
+- Columbus and Vasco da Gama looked to access riches of Asia
+
+- Portuguese land on Indian Ocean and China Sea, realizing they are too poor to buy Asian spices and goods
+
+- Spanish secure trade route after controlling Manila
+
+- Massive demand for silver in China for economic growth
+
+- No China => no Potosí => no attempt at Spanish empire
+
+- Massive population and production growth in Asia
+
+- Asian imports were extremely cheap and well-made
+
+- Europeans at great competitive disadvantage to Asians
+
+** The New World Economy
+
+*** Sugar, Slavery, and Ecology
+
+- Plantation system using imported African slave labor
+
+- Native Tupi were low in numbers and unwilling to work, so Portuguese resorted to using African slaves
+
+- Even before the discovery of the New World, Portuguese had worked slave-based plantation system for sugar
+
+- Slavery and sugar plantations were dominant features of the Portuguese colony in Brazil
+
+- French and English create slave-based sugar plantations on Caribbean islands
+
+- Extreme use of Caribbean islands caused complete deforestation, wrecked soil, and local climate change
+
+- Ecological destruction through sugar plantations lead to spread of deadly illness through ditches of water
+
+  + African slaves bring virus
+
+  + Local mosquitoes bite, carry, and transfer virus
+
+- Populations not immune/resistant were susceptible
+
+- Two triangles of trade linked the Atlantic world:
+
+  1. England to Africa and the New World
+
+     a. Commodities from America
+
+     b. Finished goods in England
+
+     c. Slaves in Africa (to obtain commodities)
+
+  2. England's North American colonies to Africa to the Caribbean
+
+     a. Rum from America
+
+     b. Slaves in Africa
+
+     c. Molasses in the Caribbean (to produce rum)
+
+- European and North American colonists made a lot of money
+
+** Human Migration and the Early Modern World
+
+- Humans evolved as a species around 200,000 years ago in eastern Africa, progressively dispersing around the world
+
+- Reasons to migrate:
+
+  + Economic
+
+  + Social
+
+  + Political
+
+  + Religious
+
+  + Environmental/climatic disasters
+
+  + Exploration
+
+- Migration requires learning new language/culture
+
+- Maritime technologies
+
+- Expansion of empires (Mongol, Chinese, Ottoman, etc.)
+
+- Migration <=> globalization
+
+- Migrants establish settler colonies around the world, often free men who would
+
+  + Have children with local women
+
+  + Create mestizo cultures and communities
+
+  + Exchange language, religion, tools, foodstuffs
+
+- Mestizo communities were result of actions of colonizers upon the colonized and enslaved; of which their creation involved
+
+  + violence
+
+  + trauma
+
+  + oppression
+
+- "Transculturation"--two-way process of creating new cultures
+
+- Ocean-crossing voyages led to:
+
+  + Vast amount of new trade between parts of the world
+
+  + Human suffering, Columbian Exchange, enslavement of Africans
+
+- Greatest migration of people caused by slavery (~100,000 per year)
+
+- Africans, despite being enslaved, brought language, religious practices, skills, and cultures
+
+- Columbian Exchange was between both Americas, Europe, and Asia
+
+- Migrants held the interconnected world together
+
+- Globalization more than an economic process
+
+  + People benefited from sailing ships and military power
+
+  + People exploited for slavery
+
+** The Global Crisis of the Seventeenth Century and the European State System
+
+- "General crisis of the 17th century": rebellions, revolutions, social crises, population declines, and sharp economic downturns
+
+- Crisis caused by Little Ice Age
+
+- China, Russia, Ottomans especially, thrown into crisis
+
+- Civil war in China and Russia pressure food supplies; rulers ignore issue to fund war
+
+- Climate + war kill many rural people through famine and starvation
+
+- Only the Mughals ruling India recognized threat to rural people: they stopped collecting taxes from those affected and provided tax relief
+
+- Nearly all European states not only had internal crises comparable to those of the Eurasian empires, but also engaged other European states in warfare
+
+- The Thirty Years' War (1618-48) embroiled nearly all European states in war, and the short-sightedness, greed, or fear of their rulers meant that all of Europe suffered
+
+  + not just from declining harvests brought on by the cold but from heightened taxes to pay for the wars
+
+- The stupidity and venality of European rulers recounted by historian Geoffrey Parker in his study of the seventeenth-century global crisis
+
+  + especially in Germany, where perhaps half of the population died of war- and climate-induced famine
+
+  + highlights the immense costs Europeans bore on their way to the 1648 Peace of Westphalia that extricated Europe from the 17th-century horrors of war, famine, and death
+
+- The 17th century crisis significantly changed the European state system
+
+- The Treaty of Westphalia defined what it meant to be the "sovereign" of a state and began the process of institutionalizing the multistate system--albeit one defined by "the rules of war"--that came to define Europe
+
+- Historical significance of wars among European states:
+
+  + Tying them in a single system, especially after the Peace of Westphalia
+
+  + Consolidation into increasingly fewer political units and to the development of a particular kind of national state as the most successful form of European state
+
+  + Affected internal evolution of European states, favoring some kinds but not others
+
+- European rulers could tap two sources of revenue:
+
+  1. Tax
+
+  2. Loans (bonds)
+
+- Taxes were met with resistance
+
+- Loans had to be repaid
+
+- European rulers have no money and resort to "state-building"
+
+*** State Building
+
+- European rulers would resort to force, if necessary, to gain access to resources needed to conduct war
+
+- Rulers preferred if their subjects would voluntarily render those resources to the state
+
+  + Made various claims to legitimacy, that is, the idea that subjects should willingly obey their ruler
+
+  + "Divine right of the kings"
+
+  + Example: Spanish Inquisition
+
+- After 17th-century crisis, the European Enlightenment of late 17th and 18th centuries challenged idea of "divine right" of monarchs to rule
+
+* "Understanding Prosperity and Poverty", Acemoglu and Robinson :noexport:
+
+** Historical Origins
+
+- Differences in living standards
+
+- Why are some nations prosperous while others fail and are poor?
+
+- A successful theory provides useful and empirically well-grounded explanation for a range of processes while also clarifying the main forces at work
+
+- The theory comprises of two levels:
+
+  1. Extractive and inclusive economic and political institutions
+
+  2. Why inclusive institutions emerged in some parts of the world and not others
+
+- Inclusive economic institutions:
+
+  + Enforce property rights
+
+  + Create a level playing field
+
+  + Encourage investments in new tech
+
+  + Skills more conducive to economic growth
+
+  + Support other inclusive institutions
+
+- Extractive economic institutions:
+
+  + Extract resources from the many by the few
+
+  + Fail to protect property rights or provide incentives for economic activity
+
+- Economic growth possible under extractive institution but not sustainable
+
+  1. Economic instability.
+     Innovation <=> creative destruction.
+     Elites resist creative destruction.
+
+  2. Political instability.
+     People will fight each other for power.
+
+- Extractive institutions end up in vicious cycles, tending persist
+
+  + This isn't always the case and some nations have transitioned to inclusive institutions
+
+- Major economic change <== major institutional change is the result of the interaction between existing institutions and critical junctures
+
+- Examples of critical junctures (disruptions of political/economic balance in societies):
+
+  + Black Death
+
+  + Opening of Atlantic trade routes
+
+  + Industrial Revolution
+
+- Institutional drift is caused by conflict over income and power
+
+- The turning point for Peru was the way in which it was colonized and how it contrasted with the colonization of North America (three factors):
+
+  1. Institutional differences within the Americas:
+
+     - North America followed a different institutional trajectory because it was sparsely settled before colonization and attracted European settlers who then successfully rose up against the elite whom entities such as the Virginia Company and the English Crown had tried to create
+
+     - Spanish conquistadors found a centralized, extractive state in Peru they could take over and a large population they could put to work in mines and plantations
+
+  2. Inca Empire could have resisted European colonialism, as Japan did, and institutionally modernize in response to threats
+
+  3. It is not even historically or geographically or culturally predetermined that Europeans should have been the ones colonizing the world.
+     It could have been the Chinese or even the Incas.
+
+- PAGE 433!
+
+- Opening Atlantic trade made Britain shift to inclusive institutions
+
+** The Irresistible Charm of Authoritarian Growth
+
+- Modernization theory maintains that all societies, as they grow, are headed toward a more modern, developed, and civilized existence, and in particular toward democracy
+
+** You Can't Engineer Prosperity
+** The Failure of Foreign Aid
+** Empowerment
+
+* "The Great Transformation", Karl Polanyi :noexport:
+
+** Evolution of the Market Pattern
+** The Self-Regulating Market and the Fictitious Commodities: Labor, Land, and Money

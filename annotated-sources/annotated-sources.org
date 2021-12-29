@@ -1,0 +1,42 @@
+#+TITLE: Annotated Sources Assignment
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+
+\noindent Nicholson, J. S. “Capital and Labour: Their Relative Strength.” /The Economic Journal/ 2, no. 7 (1892): 478. https://doi.org/10.2307/2955974.
+This article seeks to quantify the approximate capital value of labor, i.e., living capital, and how it compares to the value of dead capital such as land and infrastructure.
+In estimating the value of capital, the goal is to be able to measure the value of an entire nation.
+Nicholson assumes that a nation's labor remains mostly unchanged over time, arguing that despite the fact that individuals die, the successive generations presumably replace the previous generations' labor.
+Indeed he emphasizes the distinction between the individual laborer and labor as employment of capital.
+That is, the individual laborer is subject to uncertainties such as their employment conditions, however labor as a whole is generally more predictable and carries a sense of permanence.
+Instead of the individual laborer, in applying the idea of permanence to the family, an economist might consider the family as the unit in the capacity for earning wages, as the individual laborer is presumably financially bounded by their ability to support their family.
+From this observation, Nicholson determines that the livelihoods of the working people are being continuously constrained by the demands of dead capital, when it should be the other way around.
+It is then noted that there differences in skill level between laborers, corresponding to their respective levels of education.
+These differences create classes of workers who are assigned different tasks according to their skill, hence providing an economic justification for free education.
+Joining together the permanence of occupations through the masses with the permutation of individuals through classes, Nicholson identifies the distinction between capital and labor.
+After calculation of both the earning capacity and the cost of production and maintenance, he discovers that the living capital of the United Kingdom is worth nearly five times as much as its dead capital.
+This contradicts the idea that the labor of the masses is used to accumulate capital in the hands of the few---instead that labor is mostly redirected back to the production and maintenance of living capital itself.
+In general, large scale production is only viable given a large scale market.
+That is, most of society uses what it produces, not exclusive to a handful of people.
+Nicholson claims that, in the perspective of production, all labor from high skill to low skill is approximately four and a half times as important as land, machinery, railways, and other capital.
+However, he proposes that there is no general conflict between labor and capital, as they are both dependent on one another.
+In the event of some specific conflict between both capital and labor, it might be of interest to determine which one is stronger.
+The bottom line is that while the circumstances of the conflict between labor and capital will determine which one is stronger, the event that any set of laborers should find themselves victorious against the market will only be temporary.
+
+\noindent Sanderson, Allen R. “Child-Labor Legislation and the Labor Force Participation of Children.” /The Journal of Economic History/ 34, no. 1 (1974): 297–99. https://doi.org/10.1017/s002205070011174x.
+This article seeks to study the effectiveness of child-labor legislation in the United States during the late nineteenth and early twentieth centuries regarding participation rates of children in the nation's workforce and the distribution of occupations that they take on.
+Children have always been working since the birth of the nation, primarily in agriculture and domestic service, yet legislation regarding child labor had not been enacted until after the Civil War, with most of state legislation enacted from 1880 to 1910 and most of federal legislation enacted from the 1910 to 1920 decades.
+State legislation before the 1900s proved ineffective with poor publicity and enforcement.
+Felix Adler, Florence Kelly, and Jane Addams, along with other organizations, addressed these deficiencies through a humanitarian movement which advocated for further child-labor legislation.
+However due to disagreements among the advocates, they only worsened the situation which resulted in federal legislation to be enacted starting in the 1910s.
+The legislation mostly involved in setting the conditions under which children could work and the eligibility of children to work.
+Indeed, the main goal of the legislation was to prevent children from working in certain occupations however it also happened that it would conveniently help postpone children from entering the workforce as well.
+Other factors are also considered in the decline of the employment of children, such as increases in family income, obsolescence through technology, and changes in demand between products made by children and those made without children.
+The study of the legislation examines both general and allocative employment of children within a general supply and demand framework.
+In the allocative employment, the legislation is shown to be effective in redistributing employment of children away from covered occupations.
+Similarly in the general employment, the legislation is also shown to be effective in decreasing the employment of children.
+It is also noted that the effectiveness of such legislation could vary in specific market sectors such as cotton textiles and mining.
+The employment trends before the 1900s showed that employment of children had been naturally declining without assistance needed from legislation.
+However legislation was indeed very effective in addressing child-labor after 1900.

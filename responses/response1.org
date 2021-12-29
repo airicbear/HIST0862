@@ -1,0 +1,40 @@
+#+TITLE: Response Paper 1
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Response1_NguyenEric
+
+\nbsp{}^{*Q:* What are the similarities and differences in the way different colonial conquests shape exchange across regions?}
+
+Throughout world history there were numerous colonial conquests around the world each of which had varying degrees in shaping the exchange across different regions.
+Among the several conquests included that of Spanish conquests of the Americas, the Ottoman conquest of Constantinople, the Mongol conquest of Eurasia, and many more.
+Some aspects across the colonial conquests were similar in terms of how they shaped exchange across regions, but there were also some aspects that differed.
+Arguably, a large part of this discussion can be based on how colonial conquests shaped supply and demand in different parts of the world as conquests made new supplies and trade routes available to other regions and thereby increasing demand for certain commodities and foods.
+However, the exchange between regions was not restricted solely to commodities and foods, as it also involved the exchange of ideas, language, religion, diseases, people, weapons, and other manufactured goods.
+
+A similarity that each conquest had in terms of shaping the exchange across regions is that they each influenced people through language, culture, and religion and as a result, changed the reputation of the conquering empire and the respect that other regions had for them.
+Empires with higher reputation and respect would attract a larger amount of business as they would have more people around the world who trusted them and hence more people willing to do business with them.
+A prime example of this is in the spread of Islam, specifically by the year of 750 at which point Muslim armies had conquered a significant portion of the Eurasian continent.
+The spread of Islam formed a common language for the Old World through which much of trading developed from as more and more people gained respect for the Islamic empires and became a part of dar al-Islam (p. 53).
+
+The conquests also differed in terms of how they shaped exchange across regions, in that not all conquests shaped exchange in the affected regions to the same degree; in other words, some conquests were more significant and/or had a larger area of effect than others.
+Because of these differences, the superior religions, languages, and cultures, as determined by the outcome of each conquest, would become the most prominent over time in the contested regions.
+One example of this is in the year of 1515, when the Portuguese had conquered a number of trading cities including Melaka and Hormuz in attempts to control and monopolize trade in the Indian Ocean.
+Despite their introduction of armed trading, the Portuguese could never secure much control of trade over the Indian Ocean and ultimately the defending regions presumably retained their religion, language, and culture.
+However, the Portuguese did influence much of trading in the Indian Ocean as armed trading became more popular (p. 64).
+
+* Prompt :noexport:
+
+What are the similarities and differences in the way different colonial conquests shape exchange across regions?
+
+* Outline :noexport:
+
+- Colonial conquests:
+
+  + Spanish conquest of the Aztec Empire in the 16th century
+
+  + Mongol invansions of China and Europe in 13th century

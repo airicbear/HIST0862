@@ -1,0 +1,36 @@
+#+TITLE: Lenin's Theory on Imperialism
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Response3_NguyenEric
+
+By the late 1890s, the demand for rubber was growing rapidly and King Leopold had territory in the Congo, which happened to have a high concentration of rubber.
+His financial situation was dire after investments in the Congo, so when he saw the rubber prices from world markets quickly rise, he knew he had to take advantage of his great rubber supply in the Congo before anyone could try to compete with him.
+Extreme measures were taken to meet King Leopold's demands of the highest possible output of rubber from the Congo, including the horrific, inhumane exploitation of the Africans of their labor.
+Vladimir Lenin attempts to explain the horrors depicted in /King Leopold's Ghost/ in his book /Imperialism: The Highest Stage of Capitalism/ by theorizing that the development and continuation of capitalism eventually reaches the monopoly stage, i.e., imperialism, emphasizing the "exploitation of an increasing number of small or weak nations by a handful of the richest or most powerful nations" (Lenin, p. 42) as well as the need for the export of capital in imperialism.
+In particular, he explains how monopolies can grow out of colonial policy, for example, the widespread seizure of territory in Africa in the 1900s led to a "monopoly possession of colonies" (Lenin, p. 42).
+Lenin's theory is convincing since it intuitively makes sense that as the powerful nations exploit weaker nations, the powerful nations only get more powerful while the weaker nations only get weaker.
+
+Applying Lenin's theory to the case of exploitation of Africans in the Congo we can observe that the powerful nation in this case is Belgium and the weaker nation is the Congo.
+Indeed, through King Leopold's insistent demand for rubber from the Congo, he develops capitalism in Belgium to the point that it transitions towards imperialism, i.e., monopoly capitalism, through export of capital to the Congo.
+The maintenance of such imperialism through export of capital requires "exploiting the labour of several overseas countries and colonies" (Lenin, p. 40).
+This explains the horrors depicted in /King Leopold's Ghost/ and why Africans were exploited to such a great extent.
+
+* Prompts :noexport:
+
+1. What does Semen Kanatchikov's memoir tell us about urban-rural migration during the early history of industrialization?
+   How are Kanatchikov and his fellow workers transformed as a result of their migration?
+
+2. What do you make of Marx and Engels' statement in /Communist Manifesto/ that "All that is solid melts into air?"
+   What is it that is melting away as capitalism takes hold?
+   Why?
+   Do you agree?
+
+3. Lenin's /Imperialism: The Highest Stage of Socialism/ was meant to provide an explanation for the kind of horrors we see depicted in /King Leopold's Ghost/.
+   Do you think Lenin's theory is convincing?
+   Why or why not?
+
